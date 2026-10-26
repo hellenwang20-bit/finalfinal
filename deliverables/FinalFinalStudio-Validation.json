@@ -1,0 +1,44 @@
+{
+  "delivery": "Final Final Studio / 75-second concept film",
+  "generated_at_utc": "2026-10-26T14:58:43+00:00",
+  "render_modified_at_utc": "2026-10-26T14:57:34+00:00",
+  "video": {
+    "codec_name": "h264",
+    "width": 1920,
+    "height": 1080,
+    "r_frame_rate": "30/1",
+    "nb_frames": "2250",
+    "pix_fmt": "yuv420p",
+    "color_space": "bt709",
+    "color_primaries": "bt709",
+    "color_transfer": "bt709",
+    "color_range": "tv"
+  },
+  "audio": {
+    "codec_name": "aac",
+    "sample_rate": "48000",
+    "channels": 2,
+    "duration": "75.000000"
+  },
+  "duration_seconds": 75,
+  "full_decode": "passed",
+  "sha256": "4e28e03b721300ddec687ed1c9fc29fb8f90a0ff37eecc19783625e1224586ad",
+  "checks_this_run": [
+    "H.264/AAC stream formats",
+    "1920 x 1080 dimensions",
+    "30 fps / 2,250 frames",
+    "75-second video, audio and container",
+    "Full FFmpeg decode",
+    "Delivery copy checksums",
+    "ZIP integrity"
+  ],
+  "assets": {
+    "product_clips": "Not supplied; editable vector placeholder labelled Concept work",
+    "storyboard": "Not supplied; written narrative used as timing reference",
+    "voiceover": "Not supplied; no speech synthesized",
+    "score": "Original75-second instrumental score included"
+  },
+  "scene_count": 19,
+  "editable_project": "HTML/JavaScript Canvas; typography and interface are live type and vector primitives",
+  "download_status": "Local files only. No upload performed; chat attachment download availability is not established by packaging."
+}
