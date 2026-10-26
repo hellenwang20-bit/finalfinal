@@ -1,0 +1,238 @@
+{
+  "bpm": 120,
+  "beat_seconds": 0.5,
+  "fps": 30,
+  "sample_rate": 48000,
+  "duration": 15,
+  "time_origin": "Preview frame0",
+  "original_audio": true,
+  "speech": false,
+  "master": "preview-score.wav",
+  "stems": [
+    "music.wav",
+    "workflow-sfx.wav"
+  ],
+  "beat_frames": [
+    0,
+    15,
+    30,
+    45,
+    60,
+    75,
+    90,
+    105,
+    120,
+    135,
+    150,
+    165,
+    180,
+    195,
+    210,
+    225,
+    240,
+    255,
+    270,
+    285,
+    300,
+    315,
+    330,
+    345,
+    360,
+    375,
+    390,
+    405,
+    420,
+    435
+  ],
+  "events": [
+    {
+      "time": 0,
+      "frame": 0,
+      "beat": 0.0,
+      "event": "message_1",
+      "sound": "notification",
+      "visual": "message_1"
+    },
+    {
+      "time": 0.5,
+      "frame": 15,
+      "beat": 1.0,
+      "event": "message_2",
+      "sound": "notification",
+      "visual": "message_2"
+    },
+    {
+      "time": 1,
+      "frame": 30,
+      "beat": 2.0,
+      "event": "message_3",
+      "sound": "notification",
+      "visual": "message_3"
+    },
+    {
+      "time": 1.5,
+      "frame": 45,
+      "beat": 3.0,
+      "event": "message_4",
+      "sound": "notification",
+      "visual": "message_4"
+    },
+    {
+      "time": 2,
+      "frame": 60,
+      "beat": 4.0,
+      "event": "message_5",
+      "sound": "notification",
+      "visual": "message_5"
+    },
+    {
+      "time": 2.5,
+      "frame": 75,
+      "beat": 5.0,
+      "event": "message_6",
+      "sound": "notification",
+      "visual": "message_6"
+    },
+    {
+      "time": 3,
+      "frame": 90,
+      "beat": 6.0,
+      "event": "cards_compress",
+      "sound": "whoosh",
+      "visual": "cards_compress"
+    },
+    {
+      "time": 3.5,
+      "frame": 105,
+      "beat": 7.0,
+      "event": "timeline_materialize",
+      "sound": "snap",
+      "visual": "timeline_materialize"
+    },
+    {
+      "time": 4,
+      "frame": 120,
+      "beat": 8.0,
+      "event": "timeline_cut",
+      "sound": "cut",
+      "visual": "timeline_cut"
+    },
+    {
+      "time": 4.5,
+      "frame": 135,
+      "beat": 9.0,
+      "event": "timeline_trim",
+      "sound": "cut",
+      "visual": "timeline_trim"
+    },
+    {
+      "time": 5,
+      "frame": 150,
+      "beat": 10.0,
+      "event": "timeline_snap",
+      "sound": "snap",
+      "visual": "timeline_snap"
+    },
+    {
+      "time": 5.5,
+      "frame": 165,
+      "beat": 11.0,
+      "event": "caption_track",
+      "sound": "snap",
+      "visual": "caption_track"
+    },
+    {
+      "time": 6,
+      "frame": 180,
+      "beat": 12.0,
+      "event": "clip_to_fullscreen",
+      "sound": "whoosh",
+      "visual": "clip_to_fullscreen"
+    },
+    {
+      "time": 7,
+      "frame": 210,
+      "beat": 14.0,
+      "event": "comparison_wipe_start",
+      "sound": "cut",
+      "visual": "comparison_wipe_start"
+    },
+    {
+      "time": 8.5,
+      "frame": 255,
+      "beat": 17.0,
+      "event": "comparison_wipe_finish",
+      "sound": "snap",
+      "visual": "comparison_wipe_finish"
+    },
+    {
+      "time": 9,
+      "frame": 270,
+      "beat": 18.0,
+      "event": "graded_result",
+      "sound": "snap",
+      "visual": "graded_result"
+    },
+    {
+      "time": 9.5,
+      "frame": 285,
+      "beat": 19.0,
+      "event": "shrink_to_vertical",
+      "sound": "whoosh",
+      "visual": "shrink_to_vertical"
+    },
+    {
+      "time": 10.5,
+      "frame": 315,
+      "beat": 21.0,
+      "event": "vertical_frame_settle",
+      "sound": "snap",
+      "visual": "vertical_frame_settle"
+    },
+    {
+      "time": 11,
+      "frame": 330,
+      "beat": 22.0,
+      "event": "landscape_fanout",
+      "sound": "snap",
+      "visual": "landscape_fanout"
+    },
+    {
+      "time": 11.5,
+      "frame": 345,
+      "beat": 23.0,
+      "event": "square_fanout",
+      "sound": "snap",
+      "visual": "square_fanout"
+    },
+    {
+      "time": 12,
+      "frame": 360,
+      "beat": 24.0,
+      "event": "campaign_ready",
+      "sound": "confirm",
+      "visual": "campaign_ready"
+    },
+    {
+      "time": 13,
+      "frame": 390,
+      "beat": 26.0,
+      "event": "tagline_beat_1",
+      "sound": "snap",
+      "visual": "tagline_beat_1"
+    },
+    {
+      "time": 14,
+      "frame": 420,
+      "beat": 28.0,
+      "event": "tagline_beat_2",
+      "sound": "snap",
+      "visual": "tagline_beat_2"
+    }
+  ],
+  "notes": [
+    "All sound generated with NumPy; no external music or sound-effect samples.",
+    "Cue times are exact; picture animation should use these same frame markers.",
+    "Master and stems have identical duration and gain; stems sum to the master before PCM rounding."
+  ]
+}

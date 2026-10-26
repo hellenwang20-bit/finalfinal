@@ -1,0 +1,46 @@
+{
+  "title": "Final Final Studio / Motion Study02",
+  "status": "15-second motion prototype; original75-second film preserved",
+  "generated_at_utc": "2026-10-26T16:04:38+00:00",
+  "format": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "frames": 450,
+    "duration": 15,
+    "video": "H264",
+    "audio": "AAC",
+    "colorspace": "bt709"
+  },
+  "full_decode": "passed",
+  "sha256": "8c0865c1ffc5792adffb9cdda3e4408d798fde7d07636cc4bfa6046f34fcf9d2",
+  "original_75s_sha256": "4e28e03b721300ddec687ed1c9fc29fb8f90a0ff37eecc19783625e1224586ad",
+  "media": {
+    "product_footage": "Not supplied",
+    "sample": "Bundled8-second original CGI video,240frames960x540; not client footage or finalcampaign",
+    "storyboard": "Not supplied; written brief used",
+    "voiceover": "Not supplied; no speech synthesized"
+  },
+  "audio": {
+    "original": true,
+    "bpm": 120,
+    "sample_rate": 48000,
+    "channels": 2,
+    "duration": 15,
+    "stems": [
+      "assets/music.wav",
+      "assets/workflow-sfx.wav"
+    ],
+    "cues": "assets/beat-map.json"
+  },
+  "verified_workflows": [
+    "Playback advances",
+    "Frame360 scrubs to12sec",
+    "Config palette editing",
+    "No uncaught JavaScript exceptions",
+    "Three formats at12sec use same source5.399999sec frame",
+    "Deterministic export",
+    "Full decode of exported MP4"
+  ],
+  "notes": "Preview only. The75-second edit has not yet been rebuilt."
+}
