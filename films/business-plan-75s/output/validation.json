@@ -1,0 +1,57 @@
+{
+  "title": "Final Final Studio — Yiran Wang Business Plan",
+  "validated_at_utc": "2026-10-26T19:01:19+00:00",
+  "duration_seconds": 75,
+  "frames": 2250,
+  "video": {
+    "codec_name": "h264",
+    "width": 1920,
+    "height": 1080,
+    "r_frame_rate": "30/1",
+    "pix_fmt": "yuv420p",
+    "color_space": "bt709",
+    "color_primaries": "bt709",
+    "color_transfer": "bt709"
+  },
+  "audio": {
+    "codec_name": "aac",
+    "sample_rate": "48000",
+    "channels": 2,
+    "duration": "75.000000"
+  },
+  "full_video_decode": "passed",
+  "decoded_frames": 2250,
+  "blank_frames": [],
+  "minimum_visible_thumbnail_pixels": 96,
+  "final_card": {
+    "start": 72,
+    "end": 75,
+    "live_canvas_identical_frames": 90,
+    "decoded_thumbnail_max_rms_difference": 0.2105209231376648
+  },
+  "sha256": "952d9d98cd4d6b6b84b98d54a852e57d703a27679d01c07d3ced1a2a51b4f43e",
+  "file_bytes": 11337220,
+  "voiceover": "None; original instrumental synthesis and action effects only",
+  "client_footage": "Not supplied; authored original CGI video used as permitted, labelled Concept work at first appearance",
+  "services": {
+    "Quick Edit": {
+      "video": "One15–30s",
+      "aspect_ratios": 1,
+      "revision_rounds": 1,
+      "proposed_price": "€200 / project"
+    },
+    "Campaign Content Pack": {
+      "main_video": 1,
+      "main_max_seconds": 60,
+      "short_cutdowns": 2,
+      "matching_graphics": 3,
+      "proposed_price": "€500 / pack"
+    },
+    "Monthly Creative Support": {
+      "max_hours_per_month": 20,
+      "tasks_agreed_in_advance": true,
+      "proposed_price": "€900 / month"
+    }
+  },
+  "qa_report": "qa-report.json"
+}

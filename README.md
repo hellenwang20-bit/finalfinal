@@ -1,5 +1,24 @@
 # finalfinal
 
+## Complete75-second Business Plan film — final full version
+
+**Yiran Wang · Media Business & Enterprise · Business Plan**
+
+- **[Download the complete75-second H.264 MP4](https://github.com/hellenwang20-bit/finalfinal/raw/refs/heads/main/films/business-plan-75s/output/FinalFinalStudio-BusinessPlan-75s.mp4)**
+- **[Download the editable project ZIP, including the complete playable film](https://github.com/hellenwang20-bit/finalfinal/raw/refs/heads/main/films/business-plan-75s/FinalFinalStudio-BusinessPlan-Project.zip)**
+- [Open editable source, assets and runnable preview](films/business-plan-75s)
+- [Read encoded-film validation](films/business-plan-75s/output/validation.json) · [Read scope/player checks](films/business-plan-75s/output/qa-report.json)
+
+The full film is **75.000 seconds,1920×1080,30fps,2,250frames**, with original instrumental music and action sound effects, no voiceover or vocals. It includes the author/course introduction, all three proposed services, exact package quantities and proposed prices, and the full workflow and brand ending. The final72–75seconds is a stable brand card. No persistent corner labels or timecodes appear in the film.
+
+Quick Edit: one15–30s video, one aspect ratio, one revision round, **€200/project**. Campaign Content Pack: one main video up to60s, two cutdowns and three matching graphics, **€500/pack**. Monthly Creative Support: up to20hours/month, agreed tasks, **€900/month**. All prices are labelled **Proposed price**.
+
+The product demonstration is actual moving original CGI, introduced as **Concept work**; no uploaded product footage, client claims or contact details are invented. The editable ZIP contains every required local media/font/audio asset and the full exported MP4. From the extracted project, run `npm ci`, then `npm start`; rendering and editing instructions are included.
+
+All2,250encoded frames decoded successfully, no blank frames were detected, service scope/player checks passed, and the final90live-canvas frames are pixel-identical. Earlier versions below are retained for reference.
+
+---
+
 ## NEW: Motion Study 02 — 15-second continuous preview
 
 - **[Download the 15-second motion preview (MP4)](https://github.com/hellenwang20-bit/finalfinal/raw/refs/heads/main/previews/motion-v2/FinalFinalStudio-MotionPreview-v2.mp4)**

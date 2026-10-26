@@ -1,0 +1,622 @@
+{
+  "title": "Final Final Studio /75-second original instrumental score",
+  "bpm": 120,
+  "beat_seconds": 0.5,
+  "fps": 30,
+  "sample_rate": 48000,
+  "duration": 75,
+  "time_origin": "Film frame0",
+  "speech": false,
+  "vocals": false,
+  "original_audio": true,
+  "master": "score.wav",
+  "stems": [
+    "music.wav",
+    "workflow-sfx.wav"
+  ],
+  "beat_frames": [
+    0,
+    15,
+    30,
+    45,
+    60,
+    75,
+    90,
+    105,
+    120,
+    135,
+    150,
+    165,
+    180,
+    195,
+    210,
+    225,
+    240,
+    255,
+    270,
+    285,
+    300,
+    315,
+    330,
+    345,
+    360,
+    375,
+    390,
+    405,
+    420,
+    435,
+    450,
+    465,
+    480,
+    495,
+    510,
+    525,
+    540,
+    555,
+    570,
+    585,
+    600,
+    615,
+    630,
+    645,
+    660,
+    675,
+    690,
+    705,
+    720,
+    735,
+    750,
+    765,
+    780,
+    795,
+    810,
+    825,
+    840,
+    855,
+    870,
+    885,
+    900,
+    915,
+    930,
+    945,
+    960,
+    975,
+    990,
+    1005,
+    1020,
+    1035,
+    1050,
+    1065,
+    1080,
+    1095,
+    1110,
+    1125,
+    1140,
+    1155,
+    1170,
+    1185,
+    1200,
+    1215,
+    1230,
+    1245,
+    1260,
+    1275,
+    1290,
+    1305,
+    1320,
+    1335,
+    1350,
+    1365,
+    1380,
+    1395,
+    1410,
+    1425,
+    1440,
+    1455,
+    1470,
+    1485,
+    1500,
+    1515,
+    1530,
+    1545,
+    1560,
+    1575,
+    1590,
+    1605,
+    1620,
+    1635,
+    1650,
+    1665,
+    1680,
+    1695,
+    1710,
+    1725,
+    1740,
+    1755,
+    1770,
+    1785,
+    1800,
+    1815,
+    1830,
+    1845,
+    1860,
+    1875,
+    1890,
+    1905,
+    1920,
+    1935,
+    1950,
+    1965,
+    1980,
+    1995,
+    2010,
+    2025,
+    2040,
+    2055,
+    2070,
+    2085,
+    2100,
+    2115,
+    2130,
+    2145,
+    2160,
+    2175,
+    2190,
+    2205,
+    2220,
+    2235
+  ],
+  "events": [
+    {
+      "time": 0,
+      "frame": 0,
+      "beat": 0,
+      "event": "author_name",
+      "sound": "place"
+    },
+    {
+      "time": 0.5,
+      "frame": 15,
+      "beat": 1.0,
+      "event": "business_plan_title",
+      "sound": "place"
+    },
+    {
+      "time": 1,
+      "frame": 30,
+      "beat": 2,
+      "event": "course_name",
+      "sound": "place"
+    },
+    {
+      "time": 5.5,
+      "frame": 165,
+      "beat": 11.0,
+      "event": "intro_line_opens_message",
+      "sound": "air"
+    },
+    {
+      "time": 6.5,
+      "frame": 195,
+      "beat": 13.0,
+      "event": "client_message_1",
+      "sound": "notification"
+    },
+    {
+      "time": 7.5,
+      "frame": 225,
+      "beat": 15.0,
+      "event": "client_message_2",
+      "sound": "notification"
+    },
+    {
+      "time": 8.5,
+      "frame": 255,
+      "beat": 17.0,
+      "event": "client_message_3",
+      "sound": "notification"
+    },
+    {
+      "time": 9.5,
+      "frame": 285,
+      "beat": 19.0,
+      "event": "client_message_4",
+      "sound": "notification"
+    },
+    {
+      "time": 11,
+      "frame": 330,
+      "beat": 22,
+      "event": "messages_compress",
+      "sound": "air"
+    },
+    {
+      "time": 11.5,
+      "frame": 345,
+      "beat": 23.0,
+      "event": "message_blocks_snap",
+      "sound": "snap"
+    },
+    {
+      "time": 12,
+      "frame": 360,
+      "beat": 24,
+      "event": "brand_materializes",
+      "sound": "place"
+    },
+    {
+      "time": 12.5,
+      "frame": 375,
+      "beat": 25.0,
+      "event": "second_final_duplicates",
+      "sound": "duplicate"
+    },
+    {
+      "time": 14,
+      "frame": 420,
+      "beat": 28,
+      "event": "business_positioning",
+      "sound": "place"
+    },
+    {
+      "time": 16.5,
+      "frame": 495,
+      "beat": 33.0,
+      "event": "audience",
+      "sound": "place"
+    },
+    {
+      "time": 19,
+      "frame": 570,
+      "beat": 38,
+      "event": "input_1",
+      "sound": "place"
+    },
+    {
+      "time": 20,
+      "frame": 600,
+      "beat": 40,
+      "event": "input_2",
+      "sound": "place"
+    },
+    {
+      "time": 21,
+      "frame": 630,
+      "beat": 42,
+      "event": "input_3",
+      "sound": "place"
+    },
+    {
+      "time": 22.5,
+      "frame": 675,
+      "beat": 45.0,
+      "event": "playhead_processes_inputs",
+      "sound": "cut"
+    },
+    {
+      "time": 24,
+      "frame": 720,
+      "beat": 48,
+      "event": "ready_to_share",
+      "sound": "confirm"
+    },
+    {
+      "time": 25,
+      "frame": 750,
+      "beat": 50,
+      "event": "quick_edit_start",
+      "sound": "place"
+    },
+    {
+      "time": 26,
+      "frame": 780,
+      "beat": 52,
+      "event": "quick_edit_trim",
+      "sound": "cut"
+    },
+    {
+      "time": 27,
+      "frame": 810,
+      "beat": 54,
+      "event": "quick_edit_snap",
+      "sound": "snap"
+    },
+    {
+      "time": 28,
+      "frame": 840,
+      "beat": 56,
+      "event": "basic_captions_added",
+      "sound": "key"
+    },
+    {
+      "time": 29,
+      "frame": 870,
+      "beat": 58,
+      "event": "single_aspect_ratio_set",
+      "sound": "snap"
+    },
+    {
+      "time": 31,
+      "frame": 930,
+      "beat": 62,
+      "event": "revision_feedback",
+      "sound": "notification"
+    },
+    {
+      "time": 32.5,
+      "frame": 975,
+      "beat": 65.0,
+      "event": "revision_applied",
+      "sound": "cut"
+    },
+    {
+      "time": 33,
+      "frame": 990,
+      "beat": 66,
+      "event": "quick_edit_price",
+      "sound": "confirm"
+    },
+    {
+      "time": 35,
+      "frame": 1050,
+      "beat": 70,
+      "event": "campaign_start",
+      "sound": "place"
+    },
+    {
+      "time": 36,
+      "frame": 1080,
+      "beat": 72,
+      "event": "main_video_plays",
+      "sound": "snap"
+    },
+    {
+      "time": 38,
+      "frame": 1140,
+      "beat": 76,
+      "event": "first_cutdown",
+      "sound": "cut"
+    },
+    {
+      "time": 39,
+      "frame": 1170,
+      "beat": 78,
+      "event": "second_cutdown",
+      "sound": "cut"
+    },
+    {
+      "time": 41,
+      "frame": 1230,
+      "beat": 82,
+      "event": "matching_graphic_1",
+      "sound": "snap"
+    },
+    {
+      "time": 41.5,
+      "frame": 1245,
+      "beat": 83.0,
+      "event": "matching_graphic_2",
+      "sound": "snap"
+    },
+    {
+      "time": 42,
+      "frame": 1260,
+      "beat": 84,
+      "event": "matching_graphic_3",
+      "sound": "snap"
+    },
+    {
+      "time": 43,
+      "frame": 1290,
+      "beat": 86,
+      "event": "campaign_pack_complete",
+      "sound": "confirm"
+    },
+    {
+      "time": 46,
+      "frame": 1380,
+      "beat": 92,
+      "event": "monthly_support_start",
+      "sound": "place"
+    },
+    {
+      "time": 47,
+      "frame": 1410,
+      "beat": 94,
+      "event": "monthly_calendar_unfolds",
+      "sound": "key"
+    },
+    {
+      "time": 49,
+      "frame": 1470,
+      "beat": 98,
+      "event": "work_queue_receives_tasks",
+      "sound": "snap"
+    },
+    {
+      "time": 50.5,
+      "frame": 1515,
+      "beat": 101.0,
+      "event": "hours_allocation_bar",
+      "sound": "place"
+    },
+    {
+      "time": 52,
+      "frame": 1560,
+      "beat": 104,
+      "event": "scheduled_tasks_complete",
+      "sound": "snap"
+    },
+    {
+      "time": 53,
+      "frame": 1590,
+      "beat": 106,
+      "event": "monthly_price",
+      "sound": "confirm"
+    },
+    {
+      "time": 55,
+      "frame": 1650,
+      "beat": 110,
+      "event": "extra_capacity",
+      "sound": "place"
+    },
+    {
+      "time": 57,
+      "frame": 1710,
+      "beat": 114,
+      "event": "consistent_content",
+      "sound": "snap"
+    },
+    {
+      "time": 59,
+      "frame": 1770,
+      "beat": 118,
+      "event": "process_brief",
+      "sound": "key"
+    },
+    {
+      "time": 60,
+      "frame": 1800,
+      "beat": 120,
+      "event": "process_review",
+      "sound": "notification"
+    },
+    {
+      "time": 61,
+      "frame": 1830,
+      "beat": 122,
+      "event": "process_revision",
+      "sound": "cut"
+    },
+    {
+      "time": 62,
+      "frame": 1860,
+      "beat": 124,
+      "event": "process_deliver",
+      "sound": "confirm"
+    },
+    {
+      "time": 63,
+      "frame": 1890,
+      "beat": 126,
+      "event": "on_brief",
+      "sound": "snap"
+    },
+    {
+      "time": 65,
+      "frame": 1950,
+      "beat": 130,
+      "event": "on_brand",
+      "sound": "snap"
+    },
+    {
+      "time": 67,
+      "frame": 2010,
+      "beat": 134,
+      "event": "on_time",
+      "sound": "snap"
+    },
+    {
+      "time": 68.5,
+      "frame": 2055,
+      "beat": 137.0,
+      "event": "export_progress_completes",
+      "sound": "confirm"
+    },
+    {
+      "time": 69,
+      "frame": 2070,
+      "beat": 138,
+      "event": "file_window",
+      "sound": "key"
+    },
+    {
+      "time": 70,
+      "frame": 2100,
+      "beat": 140,
+      "event": "rename_keystroke_1",
+      "sound": "key"
+    },
+    {
+      "time": 70.085,
+      "frame": 2103,
+      "beat": 140.17,
+      "event": "rename_keystroke_2",
+      "sound": "key"
+    },
+    {
+      "time": 70.17,
+      "frame": 2105,
+      "beat": 140.34,
+      "event": "rename_keystroke_3",
+      "sound": "key"
+    },
+    {
+      "time": 70.255,
+      "frame": 2108,
+      "beat": 140.51,
+      "event": "rename_keystroke_4",
+      "sound": "key"
+    },
+    {
+      "time": 70.34,
+      "frame": 2110,
+      "beat": 140.68,
+      "event": "rename_keystroke_5",
+      "sound": "key"
+    },
+    {
+      "time": 70.425,
+      "frame": 2113,
+      "beat": 140.85,
+      "event": "rename_keystroke_6",
+      "sound": "key"
+    },
+    {
+      "time": 70.51,
+      "frame": 2115,
+      "beat": 141.02,
+      "event": "rename_keystroke_7",
+      "sound": "key"
+    },
+    {
+      "time": 70.595,
+      "frame": 2118,
+      "beat": 141.19,
+      "event": "rename_keystroke_8",
+      "sound": "key"
+    },
+    {
+      "time": 70.68,
+      "frame": 2120,
+      "beat": 141.36,
+      "event": "rename_keystroke_9",
+      "sound": "key"
+    },
+    {
+      "time": 71,
+      "frame": 2130,
+      "beat": 142,
+      "event": "rename_confirmed",
+      "sound": "snap"
+    },
+    {
+      "time": 72,
+      "frame": 2160,
+      "beat": 144,
+      "event": "final_brand_resolve",
+      "sound": "resolve"
+    }
+  ],
+  "measured_estimate": {
+    "integrated_lufs": -15.5,
+    "true_peak_dbtp": -4.22
+  },
+  "notes": [
+    "All sound synthesized with NumPy. No third-party samples, speech, AI voices, or vocals.",
+    "Picture actions should use these exact time/frame markers; individual rename keystrokes intentionally sit between beats.",
+    "Master and stems have identical duration and shared normalization; they sum before PCM16 rounding.",
+    "The final brand chord starts at72s and decays naturally through the final3-second brand hold."
+  ]
+}
