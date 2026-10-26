@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Final Final Studio — Business Plan</title>
+<style>
+@font-face{font-family:Display;src:url(assets/Display.ttf)}@font-face{font-family:Body;src:url(assets/Body.ttf)}@font-face{font-family:Mono;src:url(assets/Mono.ttf)}*{box-sizing:border-box}body{margin:0;background:#111;color:#f5f5f0;font-family:Mono,monospace}header{max-width:1440px;margin:auto;padding:24px;display:flex;justify-content:space-between;gap:20px;font-size:12px;color:#bbb}header b{color:#c5ff00}main{max-width:1440px;margin:auto;padding:0 24px 32px}canvas{display:block;width:100%;aspect-ratio:16/9;background:#111}section{display:flex;align-items:center;gap:18px;margin:20px 0}button,.download{border:0;background:#c5ff00;color:#111;padding:12px 18px;font:12px Mono;cursor:pointer;text-decoration:none;display:inline-block}input[type=range]{flex:1;accent-color:#c5ff00;min-width:30px}small,p{font-size:12px;color:#aaa;line-height:1.8}.chapters{display:flex;flex-wrap:wrap;gap:8px}.chapters button{background:#252523;color:#f5f5f0;padding:10px 12px}details{margin-top:24px}summary{color:#c5ff00;cursor:pointer}textarea{display:block;width:100%;height:330px;background:#202020;color:#f5f5f0;border:1px solid #555;padding:18px;font:12px Mono;margin:14px 0}#error{color:#c5ff00;min-height:1em}#time{white-space:nowrap;font-size:12px}.download{background:#252523;color:#c5ff00}@media(max-width:700px){header{padding:16px}main{padding:0 10px 20px}section{gap:8px}button{padding:10px}header span{display:none}}
+</style>
+<header><b>Final Final Studio / Business Plan</b><span>Yiran Wang · Media Business &amp; Enterprise</span></header>
+<main>
+<canvas id="film" width="1920" height="1080" aria-label="Final Final Studio full seventy-five-second promotional film"></canvas>
+<section><button id="play" aria-label="Play film">Play ↗</button><input id="seek" aria-label="Film frame" type="range" min="0" max="2249" step="1" value="0"><span id="time">00:00 / 01:15</span><button id="sound" aria-label="Toggle sound">Sound on</button></section>
+<div class="chapters" id="chapters"></div>
+<p id="error" role="status"></p>
+<a class="download" href="output/FinalFinalStudio-BusinessPlan-75s-v4.mp4" download>Download H.264 MP4 ↗</a>
+<p>The complete 75-second business-plan film. Music and action sound effects only; no voiceover. The product campaign uses original procedural CGI, introduced in the film as Concept work. No client product footage was supplied. All package prices are proposed prices.</p>
+<details><summary>Edit text, colours, timing and media ↗</summary><p>Apply edits to this preview. To retain them, save the JSON object back into config.js after window.FILM =. Main chapter timings are in this configuration; detailed choreography is in chapters.js and services.js.</p><textarea id="config" spellcheck="false" aria-label="Film JSON configuration"></textarea><button id="apply">Apply configuration</button><p id="message" role="status"></p></details>
+</main>
+<script src="config.js"></script><script src="engine.js"></script><script src="services.js"></script><script src="chapters.js"></script>
+<script>
+(()=>{
+const MAX_FRAME=2249,FPS=30,MAX_TIME=MAX_FRAME/FPS;
+let playing=false,base=0,epoch=0,muted=false,ready=false,audioError='';
+const slider=document.querySelector('#seek'),play=document.querySelector('#play'),error=document.querySelector('#error');
+const score=new Audio(FILM.media.score);score.preload='auto';
+const clamp=t=>Math.max(0,Math.min(MAX_TIME,t));
+function timecode(t){const seconds=Math.floor(Math.round(t*FPS)/FPS);return String(Math.floor(seconds/60)).padStart(2,'0')+':'+String(seconds%60).padStart(2,'0')}
+function syncAudio(){score.pause();score.muted=muted;score.currentTime=base;if(playing)score.play().catch(e=>{audioError='Audio: '+e.message})}
+function jump(t){base=clamp(t);epoch=performance.now()-base*1000;syncAudio()}
+function toggle(){if(!ready)return;if(base>=MAX_TIME)base=0;playing=!playing;epoch=performance.now()-base*1000;syncAudio();play.textContent=playing?'Pause':'Play ↗';play.setAttribute('aria-label',playing?'Pause film':'Play film')}
+function loop(now){
+ try{
+  if(playing){base=clamp(!score.paused?score.currentTime:(now-epoch)/1000);if(base>=MAX_TIME){playing=false;syncAudio();play.textContent='Replay ↗'}}
+  window.updateFilm(base);slider.value=Math.round(base*FPS);document.querySelector('#time').textContent=timecode(base)+' / 01:15';
+  error.textContent=G.status().error||audioError||'';
+ }catch(e){playing=false;score.pause();error.textContent=e.message;console.error(e)}
+ requestAnimationFrame(loop);
+}
+play.onclick=toggle;slider.oninput=()=>jump(+slider.value/FPS);
+document.querySelector('#sound').onclick=()=>{muted=!muted;score.muted=muted;document.querySelector('#sound').textContent=muted?'Sound off':'Sound on'};
+document.addEventListener('keydown',e=>{if(e.code==='Space'&&!['TEXTAREA','INPUT','BUTTON'].includes(document.activeElement.tagName)){e.preventDefault();toggle()}});
+for(const ch of FILM.chapters){const b=document.createElement('button');b.textContent=timecode(ch.start)+' / '+ch.name;b.onclick=()=>jump(ch.start);document.querySelector('#chapters').appendChild(b)}
+document.querySelector('#config').value=JSON.stringify(FILM,null,2);
+function validate(n){if(n.width!==1920||n.height!==1080||n.fps!==30||n.duration!==75)throw Error('Delivery must remain 1920 × 1080, 30 fps and 75 seconds.');if(!n.colors||Object.values(n.colors).some(v=>!/^#[0-9A-Fa-f]{6}$/.test(v)))throw Error('Colours must be six-digit hexadecimal values.');if(!n.copy||!n.media||!n.media.product||!n.media.score||!n.media.still)throw Error('Copy and required product, score and still paths are required.');if(!Array.isArray(n.chapters)||!n.chapters.length)throw Error('Chapter timing is required.');let end=0;for(const ch of n.chapters){if(ch.start!==end||ch.end<=ch.start)throw Error('Chapters must be contiguous and have positive duration.');end=ch.end}if(end!==75)throw Error('Chapters must end at 75 seconds.')}
+document.querySelector('#apply').onclick=async()=>{try{const n=JSON.parse(document.querySelector('#config').value);validate(n);playing=false;score.pause();play.textContent='Play ↗';window.FILM=n;G.loadMedia();score.src=n.media.score;audioError='';await prepareFilmFrame(base);document.querySelector('#message').textContent='Applied to preview.'}catch(e){document.querySelector('#message').textContent=e.message}};
+Promise.all([document.fonts.load('30px Display'),document.fonts.load('30px Body'),document.fonts.load('30px Mono')]).then(()=>prepareFilmFrame(0)).then(()=>{ready=true;requestAnimationFrame(loop)}).catch(e=>{error.textContent=e.message;console.error(e)});
+})();
+</script>
+</html>

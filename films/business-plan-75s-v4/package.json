@@ -1,0 +1,13 @@
+{
+  "name": "final-final-studio-business-plan-film",
+  "version": "4.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node server.cjs",
+    "render": "node render.cjs",
+    "stills": "node render.cjs --stills"
+  },
+  "devDependencies": {
+    "playwright": "1.56.1"
+  }
+}

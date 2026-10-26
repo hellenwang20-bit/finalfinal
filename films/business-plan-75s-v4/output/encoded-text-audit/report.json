@@ -1,0 +1,450 @@
+{
+  "movie": "/workspace/finalfinal/full-v4/output/FinalFinalStudio-BusinessPlan-75s-v4.mp4",
+  "source": "Actual finished MP4 frames decoded by FFmpeg",
+  "method": "Thresholded bright ink bounds compared with actualBoundingBoxAscent/Descent from fully loaded matching fonts; up to2.5px threshold/codec edge tolerance. Final visual inspection is separate.",
+  "passed": true,
+  "cases": [
+    {
+      "id": "author",
+      "time": 4,
+      "frame": 120,
+      "text": "Yiran Wang",
+      "x": 100,
+      "baseline": 319,
+      "size": 64,
+      "font": "Display",
+      "color": "white",
+      "fontLoaded": true,
+      "expectedInk": [
+        99,
+        270,
+        508.9375,
+        333
+      ],
+      "crop": [
+        89,
+        260,
+        519,
+        343
+      ],
+      "image": "output/encoded-text-audit/author.png",
+      "actualBrightInk": [
+        101,
+        270,
+        508,
+        331
+      ],
+      "bottomDifferencePixels": 2,
+      "topDifferencePixels": 0,
+      "passed": true
+    },
+    {
+      "id": "business-plan",
+      "time": 4,
+      "frame": 120,
+      "text": "Business Plan",
+      "x": 100,
+      "baseline": 572,
+      "size": 198,
+      "font": "Display",
+      "color": "white",
+      "fontLoaded": true,
+      "expectedInk": [
+        118,
+        421,
+        1630.0791015625,
+        575
+      ],
+      "crop": [
+        108,
+        411,
+        1641,
+        585
+      ],
+      "image": "output/encoded-text-audit/business-plan.png",
+      "actualBrightInk": [
+        118,
+        422,
+        1628,
+        575
+      ],
+      "bottomDifferencePixels": 0,
+      "topDifferencePixels": 1,
+      "passed": true
+    },
+    {
+      "id": "course",
+      "time": 4,
+      "frame": 120,
+      "text": "Media Business & Enterprise",
+      "x": 105,
+      "baseline": 729,
+      "size": 51,
+      "font": "Display",
+      "color": "white",
+      "fontLoaded": true,
+      "expectedInk": [
+        109,
+        690,
+        928.87353515625,
+        740
+      ],
+      "crop": [
+        99,
+        680,
+        939,
+        750
+      ],
+      "image": "output/encoded-text-audit/course.png",
+      "actualBrightInk": [
+        111,
+        690,
+        928,
+        739
+      ],
+      "bottomDifferencePixels": 1,
+      "topDifferencePixels": 0,
+      "passed": true
+    },
+    {
+      "id": "campaign-title",
+      "time": 44.5,
+      "frame": 1335,
+      "text": "Campaign Content Pack",
+      "x": 100,
+      "baseline": 159,
+      "size": 85,
+      "font": "Display",
+      "color": "white",
+      "fontLoaded": true,
+      "expectedInk": [
+        104,
+        94,
+        1243.6630859375,
+        178
+      ],
+      "crop": [
+        94,
+        84,
+        1254,
+        188
+      ],
+      "image": "output/encoded-text-audit/campaign-title.png",
+      "actualBrightInk": [
+        104,
+        94,
+        1241,
+        176
+      ],
+      "bottomDifferencePixels": 2,
+      "topDifferencePixels": 0,
+      "passed": true
+    },
+    {
+      "id": "monthly-title",
+      "time": 48,
+      "frame": 1440,
+      "text": "Monthly Creative Support",
+      "x": 100,
+      "baseline": 159,
+      "size": 85,
+      "font": "Display",
+      "color": "white",
+      "fontLoaded": true,
+      "expectedInk": [
+        107,
+        94,
+        1333.2333984375,
+        177
+      ],
+      "crop": [
+        97,
+        84,
+        1344,
+        187
+      ],
+      "image": "output/encoded-text-audit/monthly-title.png",
+      "actualBrightInk": [
+        109,
+        94,
+        1333,
+        176
+      ],
+      "bottomDifferencePixels": 1,
+      "topDifferencePixels": 0,
+      "passed": true
+    },
+    {
+      "id": "quick-price",
+      "time": 34,
+      "frame": 1020,
+      "text": "€200 / project",
+      "x": 100,
+      "baseline": 777,
+      "size": 94,
+      "font": "Display",
+      "color": "lime",
+      "fontLoaded": true,
+      "expectedInk": [
+        98,
+        705,
+        834.322265625,
+        797
+      ],
+      "crop": [
+        88,
+        695,
+        845,
+        807
+      ],
+      "image": "output/encoded-text-audit/quick-price.png",
+      "actualBrightInk": [
+        100,
+        707,
+        833,
+        797
+      ],
+      "bottomDifferencePixels": 0,
+      "topDifferencePixels": 2,
+      "passed": true
+    },
+    {
+      "id": "campaign-price",
+      "time": 44.5,
+      "frame": 1335,
+      "text": "€500 / pack",
+      "x": 100,
+      "baseline": 853,
+      "size": 94,
+      "font": "Display",
+      "color": "lime",
+      "fontLoaded": true,
+      "expectedInk": [
+        98,
+        781,
+        712.84375,
+        873
+      ],
+      "crop": [
+        88,
+        771,
+        723,
+        883
+      ],
+      "image": "output/encoded-text-audit/campaign-price.png",
+      "actualBrightInk": [
+        99,
+        783,
+        709,
+        872
+      ],
+      "bottomDifferencePixels": 1,
+      "topDifferencePixels": 2,
+      "passed": true
+    },
+    {
+      "id": "monthly-price",
+      "time": 53.5,
+      "frame": 1605,
+      "text": "€900 / month",
+      "x": 100,
+      "baseline": 694,
+      "size": 94,
+      "font": "Display",
+      "color": "lime",
+      "fontLoaded": true,
+      "expectedInk": [
+        98,
+        622,
+        795.78515625,
+        703
+      ],
+      "crop": [
+        88,
+        612,
+        806,
+        713
+      ],
+      "image": "output/encoded-text-audit/monthly-price.png",
+      "actualBrightInk": [
+        99,
+        622,
+        794,
+        701
+      ],
+      "bottomDifferencePixels": 2,
+      "topDifferencePixels": 0,
+      "passed": true
+    },
+    {
+      "id": "quick-proposed-price",
+      "time": 34,
+      "frame": 1020,
+      "text": "Proposed price",
+      "x": 100,
+      "baseline": 834,
+      "size": 31,
+      "font": "Body",
+      "color": "white",
+      "fontLoaded": true,
+      "expectedInk": [
+        103,
+        811,
+        328.65771484375,
+        840
+      ],
+      "crop": [
+        93,
+        801,
+        339,
+        850
+      ],
+      "image": "output/encoded-text-audit/quick-proposed-price.png",
+      "actualBrightInk": [
+        104,
+        812,
+        328,
+        840
+      ],
+      "bottomDifferencePixels": 0,
+      "topDifferencePixels": 1,
+      "passed": true
+    },
+    {
+      "id": "campaign-proposed-price",
+      "time": 44.5,
+      "frame": 1335,
+      "text": "Proposed price",
+      "x": 100,
+      "baseline": 910,
+      "size": 31,
+      "font": "Body",
+      "color": "white",
+      "fontLoaded": true,
+      "expectedInk": [
+        103,
+        887,
+        328.65771484375,
+        916
+      ],
+      "crop": [
+        93,
+        877,
+        339,
+        926
+      ],
+      "image": "output/encoded-text-audit/campaign-proposed-price.png",
+      "actualBrightInk": [
+        104,
+        888,
+        328,
+        916
+      ],
+      "bottomDifferencePixels": 0,
+      "topDifferencePixels": 1,
+      "passed": true
+    },
+    {
+      "id": "monthly-proposed-price",
+      "time": 53.5,
+      "frame": 1605,
+      "text": "Proposed price",
+      "x": 100,
+      "baseline": 751,
+      "size": 31,
+      "font": "Body",
+      "color": "white",
+      "fontLoaded": true,
+      "expectedInk": [
+        103,
+        728,
+        328.65771484375,
+        757
+      ],
+      "crop": [
+        93,
+        718,
+        339,
+        767
+      ],
+      "image": "output/encoded-text-audit/monthly-proposed-price.png",
+      "actualBrightInk": [
+        104,
+        728,
+        328,
+        756
+      ],
+      "bottomDifferencePixels": 1,
+      "topDifferencePixels": 0,
+      "passed": true
+    },
+    {
+      "id": "final-brand",
+      "time": 73.5,
+      "frame": 2205,
+      "text": "Final Final Studio",
+      "x": 100,
+      "baseline": 469,
+      "size": 153,
+      "font": "Display",
+      "color": "mixed",
+      "fontLoaded": true,
+      "expectedInk": [
+        114,
+        352,
+        1602.89453125,
+        471
+      ],
+      "crop": [
+        104,
+        342,
+        1613,
+        481
+      ],
+      "image": "output/encoded-text-audit/final-brand.png",
+      "actualBrightInk": [
+        114,
+        352,
+        1601,
+        470
+      ],
+      "bottomDifferencePixels": 1,
+      "topDifferencePixels": 0,
+      "passed": true
+    },
+    {
+      "id": "final-cta",
+      "time": 73.5,
+      "frame": 2205,
+      "text": "Let’s make your next edit.",
+      "x": 100,
+      "baseline": 710,
+      "size": 69,
+      "font": "Display",
+      "color": "white",
+      "fontLoaded": true,
+      "expectedInk": [
+        106,
+        657,
+        1118.17529296875,
+        725
+      ],
+      "crop": [
+        96,
+        647,
+        1129,
+        735
+      ],
+      "image": "output/encoded-text-audit/final-cta.png",
+      "actualBrightInk": [
+        106,
+        658,
+        1116,
+        725
+      ],
+      "bottomDifferencePixels": 0,
+      "topDifferencePixels": 1,
+      "passed": true
+    }
+  ]
+}

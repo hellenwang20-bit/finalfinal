@@ -1,0 +1,2288 @@
+{
+  "source_movie": "FinalFinalStudio-BusinessPlan-75s-v4.mp4",
+  "source": "Decoded final H264 MP4, exact selected frame numbers",
+  "text_blocks": [
+    {
+      "label": "Yiran Wang",
+      "samples": [
+        {
+          "state": "Entry",
+          "frame": 4,
+          "time": 0.13333333333333333,
+          "file": "frame-0001.png",
+          "roi": [
+            80,
+            220,
+            1100,
+            170
+          ]
+        },
+        {
+          "state": "Landed",
+          "frame": 15,
+          "time": 0.5,
+          "file": "frame-0002.png",
+          "roi": [
+            80,
+            220,
+            1100,
+            170
+          ]
+        },
+        {
+          "state": "Hold",
+          "frame": 90,
+          "time": 3.0,
+          "file": "frame-0007.png",
+          "roi": [
+            80,
+            220,
+            1100,
+            170
+          ]
+        },
+        {
+          "state": "Before exit",
+          "frame": 167,
+          "time": 5.566666666666666,
+          "file": "frame-0010.png",
+          "roi": [
+            80,
+            220,
+            1100,
+            170
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Business Plan",
+      "samples": [
+        {
+          "state": "Entry",
+          "frame": 20,
+          "time": 0.6666666666666666,
+          "file": "frame-0003.png",
+          "roi": [
+            80,
+            365,
+            1760,
+            280
+          ]
+        },
+        {
+          "state": "Landed",
+          "frame": 33,
+          "time": 1.1,
+          "file": "frame-0004.png",
+          "roi": [
+            80,
+            365,
+            1760,
+            280
+          ]
+        },
+        {
+          "state": "Hold",
+          "frame": 105,
+          "time": 3.5,
+          "file": "frame-0008.png",
+          "roi": [
+            80,
+            365,
+            1760,
+            280
+          ]
+        },
+        {
+          "state": "Before exit",
+          "frame": 167,
+          "time": 5.566666666666666,
+          "file": "frame-0010.png",
+          "roi": [
+            80,
+            365,
+            1760,
+            280
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Media Business & Enterprise",
+      "samples": [
+        {
+          "state": "Entry",
+          "frame": 42,
+          "time": 1.4,
+          "file": "frame-0005.png",
+          "roi": [
+            85,
+            625,
+            1740,
+            180
+          ]
+        },
+        {
+          "state": "Landed",
+          "frame": 56,
+          "time": 1.8666666666666667,
+          "file": "frame-0006.png",
+          "roi": [
+            85,
+            625,
+            1740,
+            180
+          ]
+        },
+        {
+          "state": "Hold",
+          "frame": 120,
+          "time": 4.0,
+          "file": "frame-0009.png",
+          "roi": [
+            85,
+            625,
+            1740,
+            180
+          ]
+        },
+        {
+          "state": "Before exit",
+          "frame": 167,
+          "time": 5.566666666666666,
+          "file": "frame-0010.png",
+          "roi": [
+            85,
+            625,
+            1740,
+            180
+          ]
+        }
+      ]
+    },
+    {
+      "label": "More content.",
+      "samples": [
+        {
+          "state": "Entry",
+          "frame": 183,
+          "time": 6.1,
+          "file": "frame-0011.png",
+          "roi": [
+            80,
+            220,
+            920,
+            210
+          ]
+        },
+        {
+          "state": "Landed",
+          "frame": 195,
+          "time": 6.5,
+          "file": "frame-0012.png",
+          "roi": [
+            80,
+            220,
+            920,
+            210
+          ]
+        },
+        {
+          "state": "Hold",
+          "frame": 255,
+          "time": 8.5,
+          "file": "frame-0015.png",
+          "roi": [
+            80,
+            220,
+            920,
+            210
+          ]
+        },
+        {
+          "state": "Before exit",
+          "frame": 329,
+          "time": 10.966666666666667,
+          "file": "frame-0017.png",
+          "roi": [
+            80,
+            220,
+            920,
+            210
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Same deadline.",
+      "samples": [
+        {
+          "state": "Entry",
+          "frame": 198,
+          "time": 6.6,
+          "file": "frame-0013.png",
+          "roi": [
+            80,
+            410,
+            920,
+            210
+          ]
+        },
+        {
+          "state": "Landed",
+          "frame": 210,
+          "time": 7.0,
+          "file": "frame-0014.png",
+          "roi": [
+            80,
+            410,
+            920,
+            210
+          ]
+        },
+        {
+          "state": "Hold",
+          "frame": 294,
+          "time": 9.8,
+          "file": "frame-0016.png",
+          "roi": [
+            80,
+            410,
+            920,
+            210
+          ]
+        },
+        {
+          "state": "Before exit",
+          "frame": 329,
+          "time": 10.966666666666667,
+          "file": "frame-0017.png",
+          "roi": [
+            80,
+            410,
+            920,
+            210
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Final Final Studio / introduction",
+      "samples": [
+        {
+          "state": "Entry",
+          "frame": 378,
+          "time": 12.6,
+          "file": "frame-0018.png",
+          "roi": [
+            80,
+            300,
+            1760,
+            290
+          ]
+        },
+        {
+          "state": "Landed",
+          "frame": 393,
+          "time": 13.1,
+          "file": "frame-0019.png",
+          "roi": [
+            80,
+            300,
+            1760,
+            290
+          ]
+        },
+        {
+          "state": "Hold",
+          "frame": 423,
+          "time": 14.1,
+          "file": "frame-0020.png",
+          "roi": [
+            80,
+            300,
+            1760,
+            290
+          ]
+        },
+        {
+          "state": "Before exit",
+          "frame": 437,
+          "time": 14.566666666666666,
+          "file": "frame-0021.png",
+          "roi": [
+            80,
+            300,
+            1760,
+            290
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Video editing + brand content",
+      "samples": [
+        {
+          "state": "Entry",
+          "frame": 453,
+          "time": 15.1,
+          "file": "frame-0022.png",
+          "roi": [
+            80,
+            290,
+            925,
+            350
+          ]
+        },
+        {
+          "state": "Landed",
+          "frame": 466,
+          "time": 15.533333333333333,
+          "file": "frame-0023.png",
+          "roi": [
+            80,
+            290,
+            925,
+            350
+          ]
+        },
+        {
+          "state": "Hold",
+          "frame": 486,
+          "time": 16.2,
+          "file": "frame-0024.png",
+          "roi": [
+            80,
+            290,
+            925,
+            350
+          ]
+        },
+        {
+          "state": "Before exit",
+          "frame": 509,
+          "time": 16.966666666666665,
+          "file": "frame-0025.png",
+          "roi": [
+            80,
+            290,
+            925,
+            350
+          ]
+        }
+      ]
+    },
+    {
+      "label": "For brand teams, marketers & agencies",
+      "samples": [
+        {
+          "state": "Entry",
+          "frame": 513,
+          "time": 17.1,
+          "file": "frame-0026.png",
+          "roi": [
+            80,
+            300,
+            925,
+            350
+          ]
+        },
+        {
+          "state": "Landed",
+          "frame": 528,
+          "time": 17.6,
+          "file": "frame-0027.png",
+          "roi": [
+            80,
+            300,
+            925,
+            350
+          ]
+        },
+        {
+          "state": "Hold",
+          "frame": 546,
+          "time": 18.2,
+          "file": "frame-0028.png",
+          "roi": [
+            80,
+            300,
+            925,
+            350
+          ]
+        },
+        {
+          "state": "Before exit",
+          "frame": 569,
+          "time": 18.966666666666665,
+          "file": "frame-0029.png",
+          "roi": [
+            80,
+            300,
+            925,
+            350
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Your brief",
+      "samples": [
+        {
+          "state": "Entry",
+          "frame": 573,
+          "time": 19.1,
+          "file": "frame-0030.png",
+          "roi": [
+            80,
+            195,
+            565,
+            150
+          ]
+        },
+        {
+          "state": "Landed",
+          "frame": 586,
+          "time": 19.533333333333335,
+          "file": "frame-0031.png",
+          "roi": [
+            80,
+            195,
+            565,
+            150
+          ]
+        },
+        {
+          "state": "Hold",
+          "frame": 621,
+          "time": 20.7,
+          "file": "frame-0034.png",
+          "roi": [
+            80,
+            195,
+            565,
+            150
+          ]
+        },
+        {
+          "state": "Before exit",
+          "frame": 674,
+          "time": 22.466666666666665,
+          "file": "frame-0039.png",
+          "roi": [
+            80,
+            195,
+            565,
+            150
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Your brand",
+      "samples": [
+        {
+          "state": "Entry",
+          "frame": 603,
+          "time": 20.1,
+          "file": "frame-0032.png",
+          "roi": [
+            665,
+            195,
+            565,
+            150
+          ]
+        },
+        {
+          "state": "Landed",
+          "frame": 616,
+          "time": 20.533333333333335,
+          "file": "frame-0033.png",
+          "roi": [
+            665,
+            195,
+            565,
+            150
+          ]
+        },
+        {
+          "state": "Hold",
+          "frame": 642,
+          "time": 21.4,
+          "file": "frame-0036.png",
+          "roi": [
+            665,
+            195,
+            565,
+            150
+          ]
+        },
+        {
+          "state": "Before exit",
+          "frame": 674,
+          "time": 22.466666666666665,
+          "file": "frame-0039.png",
+          "roi": [
+            665,
+            195,
+            565,
+            150
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Your footage",
+      "samples": [
+        {
+          "state": "Entry",
+          "frame": 633,
+          "time": 21.1,
+          "file": "frame-0035.png",
+          "roi": [
+            1250,
+            195,
+            590,
+            150
+          ]
+        },
+        {
+          "state": "Landed",
+          "frame": 646,
+          "time": 21.533333333333335,
+          "file": "frame-0037.png",
+          "roi": [
+            1250,
+            195,
+            590,
+            150
+          ]
+        },
+        {
+          "state": "Hold",
+          "frame": 663,
+          "time": 22.1,
+          "file": "frame-0038.png",
+          "roi": [
+            1250,
+            195,
+            590,
+            150
+          ]
+        },
+        {
+          "state": "Before exit",
+          "frame": 674,
+          "time": 22.466666666666665,
+          "file": "frame-0039.png",
+          "roi": [
+            1250,
+            195,
+            590,
+            150
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Ready-to-share content",
+      "samples": [
+        {
+          "state": "Entry",
+          "frame": 693,
+          "time": 23.1,
+          "file": "frame-0040.png",
+          "roi": [
+            80,
+            295,
+            840,
+            300
+          ]
+        },
+        {
+          "state": "Landed",
+          "frame": 705,
+          "time": 23.5,
+          "file": "frame-0041.png",
+          "roi": [
+            80,
+            295,
+            840,
+            300
+          ]
+        },
+        {
+          "state": "Hold",
+          "frame": 726,
+          "time": 24.2,
+          "file": "frame-0042.png",
+          "roi": [
+            80,
+            295,
+            840,
+            300
+          ]
+        },
+        {
+          "state": "Before exit",
+          "frame": 749,
+          "time": 24.966666666666665,
+          "file": "frame-0043.png",
+          "roi": [
+            80,
+            295,
+            840,
+            300
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Quick Edit",
+      "samples": [
+        {
+          "state": "Entry",
+          "frame": 753,
+          "time": 25.1,
+          "file": "frame-0044.png",
+          "roi": [
+            80,
+            55,
+            1740,
+            190
+          ]
+        },
+        {
+          "state": "Landed",
+          "frame": 765,
+          "time": 25.5,
+          "file": "frame-0046.png",
+          "roi": [
+            80,
+            55,
+            1740,
+            190
+          ]
+        },
+        {
+          "state": "Hold",
+          "frame": 900,
+          "time": 30.0,
+          "file": "frame-0055.png",
+          "roi": [
+            80,
+            55,
+            1740,
+            190
+          ]
+        },
+        {
+          "state": "Before exit",
+          "frame": 1049,
+          "time": 34.96666666666667,
+          "file": "frame-0064.png",
+          "roi": [
+            80,
+            55,
+            1740,
+            190
+          ]
+        }
+      ]
+    },
+    {
+      "label": "One15–30s video",
+      "samples": [
+        {
+          "state": "Entry",
+          "frame": 756,
+          "time": 25.2,
+          "file": "frame-0045.png",
+          "roi": [
+            80,
+            305,
+            820,
+            310
+          ]
+        },
+        {
+          "state": "Landed",
+          "frame": 772,
+          "time": 25.733333333333334,
+          "file": "frame-0047.png",
+          "roi": [
+            80,
+            305,
+            820,
+            310
+          ]
+        },
+        {
+          "state": "Hold",
+          "frame": 810,
+          "time": 27.0,
+          "file": "frame-0048.png",
+          "roi": [
+            80,
+            305,
+            820,
+            310
+          ]
+        },
+        {
+          "state": "Before exit",
+          "frame": 839,
+          "time": 27.966666666666665,
+          "file": "frame-0049.png",
+          "roi": [
+            80,
+            305,
+            820,
+            310
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Basic captions",
+      "samples": [
+        {
+          "state": "Entry",
+          "frame": 843,
+          "time": 28.1,
+          "file": "frame-0050.png",
+          "roi": [
+            80,
+            270,
+            1120,
+            190
+          ]
+        },
+        {
+          "state": "Landed",
+          "frame": 854,
+          "time": 28.466666666666665,
+          "file": "frame-0051.png",
+          "roi": [
+            80,
+            270,
+            1120,
+            190
+          ]
+        },
+        {
+          "state": "Hold",
+          "frame": 894,
+          "time": 29.8,
+          "file": "frame-0054.png",
+          "roi": [
+            80,
+            270,
+            1120,
+            190
+          ]
+        },
+        {
+          "state": "Before exit",
+          "frame": 929,
+          "time": 30.966666666666665,
+          "file": "frame-0057.png",
+          "roi": [
+            80,
+            270,
+            1120,
+            190
+          ]
+        }
+      ]
+    },
+    {
+      "label": "One aspect ratio",
+      "samples": [
+        {
+          "state": "Entry",
+          "frame": 858,
+          "time": 28.6,
+          "file": "frame-0052.png",
+          "roi": [
+            80,
+            485,
+            1120,
+            205
+          ]
+        },
+        {
+          "state": "Landed",
+          "frame": 868,
+          "time": 28.933333333333334,
+          "file": "frame-0053.png",
+          "roi": [
+            80,
+            485,
+            1120,
+            205
+          ]
+        },
+        {
+          "state": "Hold",
+          "frame": 906,
+          "time": 30.2,
+          "file": "frame-0056.png",
+          "roi": [
+            80,
+            485,
+            1120,
+            205
+          ]
+        },
+        {
+          "state": "Before exit",
+          "frame": 929,
+          "time": 30.966666666666665,
+          "file": "frame-0057.png",
+          "roi": [
+            80,
+            485,
+            1120,
+            205
+          ]
+        }
+      ]
+    },
+    {
+      "label": "One revision round",
+      "samples": [
+        {
+          "state": "Entry",
+          "frame": 933,
+          "time": 31.1,
+          "file": "frame-0058.png",
+          "roi": [
+            80,
+            240,
+            1120,
+            190
+          ]
+        },
+        {
+          "state": "Landed",
+          "frame": 945,
+          "time": 31.5,
+          "file": "frame-0059.png",
+          "roi": [
+            80,
+            240,
+            1120,
+            190
+          ]
+        },
+        {
+          "state": "Hold",
+          "frame": 1005,
+          "time": 33.5,
+          "file": "frame-0063.png",
+          "roi": [
+            80,
+            240,
+            1120,
+            190
+          ]
+        },
+        {
+          "state": "Before exit",
+          "frame": 1049,
+          "time": 34.96666666666667,
+          "file": "frame-0064.png",
+          "roi": [
+            80,
+            240,
+            1120,
+            190
+          ]
+        }
+      ]
+    },
+    {
+      "label": "€200 / project",
+      "samples": [
+        {
+          "state": "Entry",
+          "frame": 950,
+          "time": 31.666666666666668,
+          "file": "frame-0060.png",
+          "roi": [
+            80,
+            655,
+            1080,
+            220
+          ]
+        },
+        {
+          "state": "Landed",
+          "frame": 963,
+          "time": 32.1,
+          "file": "frame-0062.png",
+          "roi": [
+            80,
+            655,
+            1080,
+            220
+          ]
+        },
+        {
+          "state": "Hold",
+          "frame": 1005,
+          "time": 33.5,
+          "file": "frame-0063.png",
+          "roi": [
+            80,
+            655,
+            1080,
+            220
+          ]
+        },
+        {
+          "state": "Before exit",
+          "frame": 1049,
+          "time": 34.96666666666667,
+          "file": "frame-0064.png",
+          "roi": [
+            80,
+            655,
+            1080,
+            220
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Proposed price / Quick Edit",
+      "samples": [
+        {
+          "state": "Entry",
+          "frame": 952,
+          "time": 31.733333333333334,
+          "file": "frame-0061.png",
+          "roi": [
+            80,
+            795,
+            800,
+            85
+          ]
+        },
+        {
+          "state": "Landed",
+          "frame": 963,
+          "time": 32.1,
+          "file": "frame-0062.png",
+          "roi": [
+            80,
+            795,
+            800,
+            85
+          ]
+        },
+        {
+          "state": "Hold",
+          "frame": 1005,
+          "time": 33.5,
+          "file": "frame-0063.png",
+          "roi": [
+            80,
+            795,
+            800,
+            85
+          ]
+        },
+        {
+          "state": "Before exit",
+          "frame": 1049,
+          "time": 34.96666666666667,
+          "file": "frame-0064.png",
+          "roi": [
+            80,
+            795,
+            800,
+            85
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Campaign Content Pack",
+      "samples": [
+        {
+          "state": "Entry",
+          "frame": 1053,
+          "time": 35.1,
+          "file": "frame-0065.png",
+          "roi": [
+            80,
+            55,
+            1740,
+            190
+          ]
+        },
+        {
+          "state": "Landed",
+          "frame": 1066,
+          "time": 35.53333333333333,
+          "file": "frame-0066.png",
+          "roi": [
+            80,
+            55,
+            1740,
+            190
+          ]
+        },
+        {
+          "state": "Hold",
+          "frame": 1200,
+          "time": 40.0,
+          "file": "frame-0073.png",
+          "roi": [
+            80,
+            55,
+            1740,
+            190
+          ]
+        },
+        {
+          "state": "Before exit",
+          "frame": 1379,
+          "time": 45.96666666666667,
+          "file": "frame-0085.png",
+          "roi": [
+            80,
+            55,
+            1740,
+            190
+          ]
+        }
+      ]
+    },
+    {
+      "label": "1 main video / Up to60s",
+      "samples": [
+        {
+          "state": "Entry",
+          "frame": 1072,
+          "time": 35.733333333333334,
+          "file": "frame-0067.png",
+          "roi": [
+            1210,
+            345,
+            630,
+            295
+          ]
+        },
+        {
+          "state": "Landed",
+          "frame": 1095,
+          "time": 36.5,
+          "file": "frame-0068.png",
+          "roi": [
+            1210,
+            345,
+            630,
+            295
+          ]
+        },
+        {
+          "state": "Hold",
+          "frame": 1116,
+          "time": 37.2,
+          "file": "frame-0069.png",
+          "roi": [
+            1210,
+            345,
+            630,
+            295
+          ]
+        },
+        {
+          "state": "Before exit",
+          "frame": 1139,
+          "time": 37.96666666666667,
+          "file": "frame-0070.png",
+          "roi": [
+            1210,
+            345,
+            630,
+            295
+          ]
+        }
+      ]
+    },
+    {
+      "label": "2 short cutdowns",
+      "samples": [
+        {
+          "state": "Entry",
+          "frame": 1143,
+          "time": 38.1,
+          "file": "frame-0071.png",
+          "roi": [
+            80,
+            735,
+            1120,
+            180
+          ]
+        },
+        {
+          "state": "Landed",
+          "frame": 1156,
+          "time": 38.53333333333333,
+          "file": "frame-0072.png",
+          "roi": [
+            80,
+            735,
+            1120,
+            180
+          ]
+        },
+        {
+          "state": "Hold",
+          "frame": 1200,
+          "time": 40.0,
+          "file": "frame-0073.png",
+          "roi": [
+            80,
+            735,
+            1120,
+            180
+          ]
+        },
+        {
+          "state": "Before exit",
+          "frame": 1229,
+          "time": 40.96666666666667,
+          "file": "frame-0074.png",
+          "roi": [
+            80,
+            735,
+            1120,
+            180
+          ]
+        }
+      ]
+    },
+    {
+      "label": "3 matching graphics",
+      "samples": [
+        {
+          "state": "Entry",
+          "frame": 1233,
+          "time": 41.1,
+          "file": "frame-0075.png",
+          "roi": [
+            80,
+            735,
+            1120,
+            180
+          ]
+        },
+        {
+          "state": "Landed",
+          "frame": 1246,
+          "time": 41.53333333333333,
+          "file": "frame-0076.png",
+          "roi": [
+            80,
+            735,
+            1120,
+            180
+          ]
+        },
+        {
+          "state": "Hold",
+          "frame": 1272,
+          "time": 42.4,
+          "file": "frame-0077.png",
+          "roi": [
+            80,
+            735,
+            1120,
+            180
+          ]
+        },
+        {
+          "state": "Before exit",
+          "frame": 1289,
+          "time": 42.96666666666667,
+          "file": "frame-0078.png",
+          "roi": [
+            80,
+            735,
+            1120,
+            180
+          ]
+        }
+      ]
+    },
+    {
+      "label": "One campaign. One consistent look.",
+      "samples": [
+        {
+          "state": "Entry",
+          "frame": 1290,
+          "time": 43.0,
+          "file": "frame-0079.png",
+          "roi": [
+            80,
+            170,
+            1740,
+            125
+          ]
+        },
+        {
+          "state": "Landed",
+          "frame": 1299,
+          "time": 43.3,
+          "file": "frame-0082.png",
+          "roi": [
+            80,
+            170,
+            1740,
+            125
+          ]
+        },
+        {
+          "state": "Hold",
+          "frame": 1335,
+          "time": 44.5,
+          "file": "frame-0084.png",
+          "roi": [
+            80,
+            170,
+            1740,
+            125
+          ]
+        },
+        {
+          "state": "Before exit",
+          "frame": 1379,
+          "time": 45.96666666666667,
+          "file": "frame-0085.png",
+          "roi": [
+            80,
+            170,
+            1740,
+            125
+          ]
+        }
+      ]
+    },
+    {
+      "label": "€500 / pack",
+      "samples": [
+        {
+          "state": "Entry",
+          "frame": 1293,
+          "time": 43.1,
+          "file": "frame-0080.png",
+          "roi": [
+            80,
+            775,
+            760,
+            180
+          ]
+        },
+        {
+          "state": "Landed",
+          "frame": 1308,
+          "time": 43.6,
+          "file": "frame-0083.png",
+          "roi": [
+            80,
+            775,
+            760,
+            180
+          ]
+        },
+        {
+          "state": "Hold",
+          "frame": 1335,
+          "time": 44.5,
+          "file": "frame-0084.png",
+          "roi": [
+            80,
+            775,
+            760,
+            180
+          ]
+        },
+        {
+          "state": "Before exit",
+          "frame": 1379,
+          "time": 45.96666666666667,
+          "file": "frame-0085.png",
+          "roi": [
+            80,
+            775,
+            760,
+            180
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Proposed price / Campaign",
+      "samples": [
+        {
+          "state": "Entry",
+          "frame": 1296,
+          "time": 43.2,
+          "file": "frame-0081.png",
+          "roi": [
+            80,
+            880,
+            760,
+            85
+          ]
+        },
+        {
+          "state": "Landed",
+          "frame": 1308,
+          "time": 43.6,
+          "file": "frame-0083.png",
+          "roi": [
+            80,
+            880,
+            760,
+            85
+          ]
+        },
+        {
+          "state": "Hold",
+          "frame": 1335,
+          "time": 44.5,
+          "file": "frame-0084.png",
+          "roi": [
+            80,
+            880,
+            760,
+            85
+          ]
+        },
+        {
+          "state": "Before exit",
+          "frame": 1379,
+          "time": 45.96666666666667,
+          "file": "frame-0085.png",
+          "roi": [
+            80,
+            880,
+            760,
+            85
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Monthly Creative Support",
+      "samples": [
+        {
+          "state": "Entry",
+          "frame": 1383,
+          "time": 46.1,
+          "file": "frame-0086.png",
+          "roi": [
+            80,
+            55,
+            1740,
+            190
+          ]
+        },
+        {
+          "state": "Landed",
+          "frame": 1396,
+          "time": 46.53333333333333,
+          "file": "frame-0088.png",
+          "roi": [
+            80,
+            55,
+            1740,
+            190
+          ]
+        },
+        {
+          "state": "Hold",
+          "frame": 1515,
+          "time": 50.5,
+          "file": "frame-0096.png",
+          "roi": [
+            80,
+            55,
+            1740,
+            190
+          ]
+        },
+        {
+          "state": "Before exit",
+          "frame": 1649,
+          "time": 54.96666666666667,
+          "file": "frame-0105.png",
+          "roi": [
+            80,
+            55,
+            1740,
+            190
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Regular content support",
+      "samples": [
+        {
+          "state": "Entry",
+          "frame": 1389,
+          "time": 46.3,
+          "file": "frame-0087.png",
+          "roi": [
+            80,
+            280,
+            820,
+            320
+          ]
+        },
+        {
+          "state": "Landed",
+          "frame": 1406,
+          "time": 46.86666666666667,
+          "file": "frame-0089.png",
+          "roi": [
+            80,
+            280,
+            820,
+            320
+          ]
+        },
+        {
+          "state": "Hold",
+          "frame": 1440,
+          "time": 48.0,
+          "file": "frame-0090.png",
+          "roi": [
+            80,
+            280,
+            820,
+            320
+          ]
+        },
+        {
+          "state": "Before exit",
+          "frame": 1469,
+          "time": 48.96666666666667,
+          "file": "frame-0091.png",
+          "roi": [
+            80,
+            280,
+            820,
+            320
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Up to20hours/month",
+      "samples": [
+        {
+          "state": "Entry",
+          "frame": 1473,
+          "time": 49.1,
+          "file": "frame-0092.png",
+          "roi": [
+            80,
+            260,
+            860,
+            320
+          ]
+        },
+        {
+          "state": "Landed",
+          "frame": 1488,
+          "time": 49.6,
+          "file": "frame-0093.png",
+          "roi": [
+            80,
+            260,
+            860,
+            320
+          ]
+        },
+        {
+          "state": "Hold",
+          "frame": 1530,
+          "time": 51.0,
+          "file": "frame-0097.png",
+          "roi": [
+            80,
+            260,
+            860,
+            320
+          ]
+        },
+        {
+          "state": "Before exit",
+          "frame": 1559,
+          "time": 51.96666666666667,
+          "file": "frame-0099.png",
+          "roi": [
+            80,
+            260,
+            860,
+            320
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Editing + simple design",
+      "samples": [
+        {
+          "state": "Entry",
+          "frame": 1492,
+          "time": 49.733333333333334,
+          "file": "frame-0094.png",
+          "roi": [
+            80,
+            550,
+            900,
+            175
+          ]
+        },
+        {
+          "state": "Landed",
+          "frame": 1508,
+          "time": 50.266666666666666,
+          "file": "frame-0095.png",
+          "roi": [
+            80,
+            550,
+            900,
+            175
+          ]
+        },
+        {
+          "state": "Hold",
+          "frame": 1539,
+          "time": 51.3,
+          "file": "frame-0098.png",
+          "roi": [
+            80,
+            550,
+            900,
+            175
+          ]
+        },
+        {
+          "state": "Before exit",
+          "frame": 1559,
+          "time": 51.96666666666667,
+          "file": "frame-0099.png",
+          "roi": [
+            80,
+            550,
+            900,
+            175
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Tasks agreed in advance",
+      "samples": [
+        {
+          "state": "Entry",
+          "frame": 1563,
+          "time": 52.1,
+          "file": "frame-0100.png",
+          "roi": [
+            80,
+            260,
+            900,
+            290
+          ]
+        },
+        {
+          "state": "Landed",
+          "frame": 1578,
+          "time": 52.6,
+          "file": "frame-0103.png",
+          "roi": [
+            80,
+            260,
+            900,
+            290
+          ]
+        },
+        {
+          "state": "Hold",
+          "frame": 1605,
+          "time": 53.5,
+          "file": "frame-0104.png",
+          "roi": [
+            80,
+            260,
+            900,
+            290
+          ]
+        },
+        {
+          "state": "Before exit",
+          "frame": 1649,
+          "time": 54.96666666666667,
+          "file": "frame-0105.png",
+          "roi": [
+            80,
+            260,
+            900,
+            290
+          ]
+        }
+      ]
+    },
+    {
+      "label": "€900 / month",
+      "samples": [
+        {
+          "state": "Entry",
+          "frame": 1564,
+          "time": 52.13333333333333,
+          "file": "frame-0101.png",
+          "roi": [
+            80,
+            590,
+            860,
+            220
+          ]
+        },
+        {
+          "state": "Landed",
+          "frame": 1578,
+          "time": 52.6,
+          "file": "frame-0103.png",
+          "roi": [
+            80,
+            590,
+            860,
+            220
+          ]
+        },
+        {
+          "state": "Hold",
+          "frame": 1605,
+          "time": 53.5,
+          "file": "frame-0104.png",
+          "roi": [
+            80,
+            590,
+            860,
+            220
+          ]
+        },
+        {
+          "state": "Before exit",
+          "frame": 1649,
+          "time": 54.96666666666667,
+          "file": "frame-0105.png",
+          "roi": [
+            80,
+            590,
+            860,
+            220
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Proposed price / Monthly",
+      "samples": [
+        {
+          "state": "Entry",
+          "frame": 1568,
+          "time": 52.266666666666666,
+          "file": "frame-0102.png",
+          "roi": [
+            80,
+            720,
+            860,
+            85
+          ]
+        },
+        {
+          "state": "Landed",
+          "frame": 1578,
+          "time": 52.6,
+          "file": "frame-0103.png",
+          "roi": [
+            80,
+            720,
+            860,
+            85
+          ]
+        },
+        {
+          "state": "Hold",
+          "frame": 1605,
+          "time": 53.5,
+          "file": "frame-0104.png",
+          "roi": [
+            80,
+            720,
+            860,
+            85
+          ]
+        },
+        {
+          "state": "Before exit",
+          "frame": 1649,
+          "time": 54.96666666666667,
+          "file": "frame-0105.png",
+          "roi": [
+            80,
+            720,
+            860,
+            85
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Extra capacity.",
+      "samples": [
+        {
+          "state": "Entry",
+          "frame": 1653,
+          "time": 55.1,
+          "file": "frame-0106.png",
+          "roi": [
+            80,
+            110,
+            1740,
+            200
+          ]
+        },
+        {
+          "state": "Landed",
+          "frame": 1666,
+          "time": 55.53333333333333,
+          "file": "frame-0107.png",
+          "roi": [
+            80,
+            110,
+            1740,
+            200
+          ]
+        },
+        {
+          "state": "Hold",
+          "frame": 1704,
+          "time": 56.8,
+          "file": "frame-0109.png",
+          "roi": [
+            80,
+            110,
+            1740,
+            200
+          ]
+        },
+        {
+          "state": "Before exit",
+          "frame": 1769,
+          "time": 58.96666666666667,
+          "file": "frame-0112.png",
+          "roi": [
+            80,
+            110,
+            1740,
+            200
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Consistent content.",
+      "samples": [
+        {
+          "state": "Entry",
+          "frame": 1702,
+          "time": 56.733333333333334,
+          "file": "frame-0108.png",
+          "roi": [
+            80,
+            255,
+            1740,
+            200
+          ]
+        },
+        {
+          "state": "Landed",
+          "frame": 1716,
+          "time": 57.2,
+          "file": "frame-0110.png",
+          "roi": [
+            80,
+            255,
+            1740,
+            200
+          ]
+        },
+        {
+          "state": "Hold",
+          "frame": 1746,
+          "time": 58.2,
+          "file": "frame-0111.png",
+          "roi": [
+            80,
+            255,
+            1740,
+            200
+          ]
+        },
+        {
+          "state": "Before exit",
+          "frame": 1769,
+          "time": 58.96666666666667,
+          "file": "frame-0112.png",
+          "roi": [
+            80,
+            255,
+            1740,
+            200
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Brief → Review → Deliver",
+      "samples": [
+        {
+          "state": "Entry",
+          "frame": 1773,
+          "time": 59.1,
+          "file": "frame-0113.png",
+          "roi": [
+            80,
+            60,
+            1740,
+            185
+          ]
+        },
+        {
+          "state": "Landed",
+          "frame": 1788,
+          "time": 59.6,
+          "file": "frame-0114.png",
+          "roi": [
+            80,
+            60,
+            1740,
+            185
+          ]
+        },
+        {
+          "state": "Hold",
+          "frame": 1845,
+          "time": 61.5,
+          "file": "frame-0115.png",
+          "roi": [
+            80,
+            60,
+            1740,
+            185
+          ]
+        },
+        {
+          "state": "Before exit",
+          "frame": 1889,
+          "time": 62.96666666666667,
+          "file": "frame-0116.png",
+          "roi": [
+            80,
+            60,
+            1740,
+            185
+          ]
+        }
+      ]
+    },
+    {
+      "label": "On brief.",
+      "samples": [
+        {
+          "state": "Entry",
+          "frame": 1893,
+          "time": 63.1,
+          "file": "frame-0117.png",
+          "roi": [
+            80,
+            215,
+            940,
+            205
+          ]
+        },
+        {
+          "state": "Landed",
+          "frame": 1906,
+          "time": 63.53333333333333,
+          "file": "frame-0118.png",
+          "roi": [
+            80,
+            215,
+            940,
+            205
+          ]
+        },
+        {
+          "state": "Hold",
+          "frame": 1926,
+          "time": 64.2,
+          "file": "frame-0119.png",
+          "roi": [
+            80,
+            215,
+            940,
+            205
+          ]
+        },
+        {
+          "state": "Before exit",
+          "frame": 2069,
+          "time": 68.96666666666667,
+          "file": "frame-0126.png",
+          "roi": [
+            80,
+            215,
+            940,
+            205
+          ]
+        }
+      ]
+    },
+    {
+      "label": "On brand.",
+      "samples": [
+        {
+          "state": "Entry",
+          "frame": 1953,
+          "time": 65.1,
+          "file": "frame-0120.png",
+          "roi": [
+            80,
+            420,
+            940,
+            205
+          ]
+        },
+        {
+          "state": "Landed",
+          "frame": 1966,
+          "time": 65.53333333333333,
+          "file": "frame-0121.png",
+          "roi": [
+            80,
+            420,
+            940,
+            205
+          ]
+        },
+        {
+          "state": "Hold",
+          "frame": 1986,
+          "time": 66.2,
+          "file": "frame-0122.png",
+          "roi": [
+            80,
+            420,
+            940,
+            205
+          ]
+        },
+        {
+          "state": "Before exit",
+          "frame": 2069,
+          "time": 68.96666666666667,
+          "file": "frame-0126.png",
+          "roi": [
+            80,
+            420,
+            940,
+            205
+          ]
+        }
+      ]
+    },
+    {
+      "label": "On time.",
+      "samples": [
+        {
+          "state": "Entry",
+          "frame": 2013,
+          "time": 67.1,
+          "file": "frame-0123.png",
+          "roi": [
+            80,
+            630,
+            940,
+            215
+          ]
+        },
+        {
+          "state": "Landed",
+          "frame": 2026,
+          "time": 67.53333333333333,
+          "file": "frame-0124.png",
+          "roi": [
+            80,
+            630,
+            940,
+            215
+          ]
+        },
+        {
+          "state": "Hold",
+          "frame": 2049,
+          "time": 68.3,
+          "file": "frame-0125.png",
+          "roi": [
+            80,
+            630,
+            940,
+            215
+          ]
+        },
+        {
+          "state": "Before exit",
+          "frame": 2069,
+          "time": 68.96666666666667,
+          "file": "frame-0126.png",
+          "roi": [
+            80,
+            630,
+            940,
+            215
+          ]
+        }
+      ]
+    },
+    {
+      "label": "final.mp4",
+      "samples": [
+        {
+          "state": "Entry",
+          "frame": 2076,
+          "time": 69.2,
+          "file": "frame-0127.png",
+          "roi": [
+            80,
+            280,
+            1760,
+            380
+          ]
+        },
+        {
+          "state": "Landed",
+          "frame": 2086,
+          "time": 69.53333333333333,
+          "file": "frame-0128.png",
+          "roi": [
+            80,
+            280,
+            1760,
+            380
+          ]
+        },
+        {
+          "state": "Hold",
+          "frame": 2091,
+          "time": 69.7,
+          "file": "frame-0129.png",
+          "roi": [
+            80,
+            280,
+            1760,
+            380
+          ]
+        },
+        {
+          "state": "Before exit",
+          "frame": 2099,
+          "time": 69.96666666666667,
+          "file": "frame-0130.png",
+          "roi": [
+            80,
+            280,
+            1760,
+            380
+          ]
+        }
+      ]
+    },
+    {
+      "label": "final_final.mp4",
+      "samples": [
+        {
+          "state": "Entry",
+          "frame": 2103,
+          "time": 70.1,
+          "file": "frame-0131.png",
+          "roi": [
+            80,
+            280,
+            1760,
+            380
+          ]
+        },
+        {
+          "state": "Landed",
+          "frame": 2116,
+          "time": 70.53333333333333,
+          "file": "frame-0132.png",
+          "roi": [
+            80,
+            280,
+            1760,
+            380
+          ]
+        },
+        {
+          "state": "Hold",
+          "frame": 2124,
+          "time": 70.8,
+          "file": "frame-0133.png",
+          "roi": [
+            80,
+            280,
+            1760,
+            380
+          ]
+        },
+        {
+          "state": "Before exit",
+          "frame": 2129,
+          "time": 70.96666666666667,
+          "file": "frame-0134.png",
+          "roi": [
+            80,
+            280,
+            1760,
+            380
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Final Final Studio / ending",
+      "samples": [
+        {
+          "state": "Entry",
+          "frame": 2142,
+          "time": 71.4,
+          "file": "frame-0135.png",
+          "roi": [
+            80,
+            275,
+            1760,
+            315
+          ]
+        },
+        {
+          "state": "Landed",
+          "frame": 2159,
+          "time": 71.96666666666667,
+          "file": "frame-0137.png",
+          "roi": [
+            80,
+            275,
+            1760,
+            315
+          ]
+        },
+        {
+          "state": "Hold",
+          "frame": 2190,
+          "time": 73.0,
+          "file": "frame-0138.png",
+          "roi": [
+            80,
+            275,
+            1760,
+            315
+          ]
+        },
+        {
+          "state": "Before exit",
+          "frame": 2249,
+          "time": 74.96666666666667,
+          "file": "frame-0140.png",
+          "roi": [
+            80,
+            275,
+            1760,
+            315
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Let’s make your next edit.",
+      "samples": [
+        {
+          "state": "Entry",
+          "frame": 2145,
+          "time": 71.5,
+          "file": "frame-0136.png",
+          "roi": [
+            80,
+            605,
+            1740,
+            195
+          ]
+        },
+        {
+          "state": "Landed",
+          "frame": 2159,
+          "time": 71.96666666666667,
+          "file": "frame-0137.png",
+          "roi": [
+            80,
+            605,
+            1740,
+            195
+          ]
+        },
+        {
+          "state": "Hold",
+          "frame": 2205,
+          "time": 73.5,
+          "file": "frame-0139.png",
+          "roi": [
+            80,
+            605,
+            1740,
+            195
+          ]
+        },
+        {
+          "state": "Before exit",
+          "frame": 2249,
+          "time": 74.96666666666667,
+          "file": "frame-0140.png",
+          "roi": [
+            80,
+            605,
+            1740,
+            195
+          ]
+        }
+      ]
+    }
+  ],
+  "distinct_encoded_frames": 140,
+  "samples": 172,
+  "source_sha256": "88b25c3c81d1139d942fb0c1f503f9f24a4340268e381127739c27dd0993e398"
+}

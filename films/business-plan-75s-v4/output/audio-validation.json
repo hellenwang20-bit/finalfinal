@@ -1,0 +1,14 @@
+{
+  "input_i": "-15.51",
+  "input_tp": "-3.67",
+  "input_lra": "5.80",
+  "input_thresh": "-25.91",
+  "output_i": "-15.05",
+  "output_tp": "-1.00",
+  "output_lra": "4.00",
+  "output_thresh": "-25.29",
+  "normalization_type": "dynamic",
+  "target_offset": "-0.95",
+  "verified_identical_encoded_AAC": true,
+  "encoded_AAC_sha256": "b95753e3e6cff7ef86e7eddc27054c0c2c534009b55b202c3f63cdcdda1a1b8d"
+}

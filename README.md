@@ -1,5 +1,22 @@
 # finalfinal
 
+## Latest V4 — complete75-second typography and motion revision
+
+- **[Download the revised full MP4](https://github.com/hellenwang20-bit/finalfinal/raw/refs/heads/main/films/business-plan-75s-v4/output/FinalFinalStudio-BusinessPlan-75s-v4.mp4)**
+- **[Download editable V4 project, complete player and film](https://github.com/hellenwang20-bit/finalfinal/raw/refs/heads/main/films/business-plan-75s-v4/FinalFinalStudio-BusinessPlan-Project-v4.zip)**
+- [See actual encoded before/after text crops](films/business-plan-75s-v4/output/encoded-text-audit/before-after-descenders.jpg)
+- [Open V4 source and instructions](films/business-plan-75s-v4) · [Review exact encoded text-state samples](films/business-plan-75s-v4/output/encoded-review/manifest.json)
+
+The old word mask omitted actual descenders: its fixed bottom was `baseline +0.24×fontSize−8`. V4 measures loaded-font ink bounds, separates final layout from the entry mask, and fixes multiline staggering and caption spacing. Settled headlines retain their original sizes; prices and regular small print have a clearer hierarchy.
+
+Service composition, asset-to-queue motion, brand scaling and the file-to-brand ending are refined. Principal content and prices are unchanged. The original instrumental/effects master and encoded AAC audio are byte-identical to V3; no voiceover was added.
+
+**75.000seconds ·1920×1080 ·30fps ·2,250frames ·H.264/AAC.** Actual final MP4 review covers43principal text blocks×four states (172samples/140decodedframes),13measured encoded text crops,20glyph pixel regressions and25stable-mask checks. Full decoding passed and the final90live-canvas frames are identical. See [revision notes](films/business-plan-75s-v4/CHANGELOG-V4.md) and [visual review scope](films/business-plan-75s-v4/output/encoded-text-audit/visual-review.md).
+
+Earlier versions below are preserved for reference.
+
+---
+
 ## Complete75-second Business Plan film — final full version
 
 **Yiran Wang · Media Business & Enterprise · Business Plan**

@@ -1,0 +1,63 @@
+{
+  "title": "Final Final Studio — Yiran Wang Business Plan",
+  "validated_at_utc": "2026-10-26T20:03:20+00:00",
+  "duration_seconds": 75,
+  "frames": 2250,
+  "video": {
+    "codec_name": "h264",
+    "width": 1920,
+    "height": 1080,
+    "r_frame_rate": "30/1",
+    "pix_fmt": "yuv420p",
+    "color_space": "bt709",
+    "color_primaries": "bt709",
+    "color_transfer": "bt709"
+  },
+  "audio": {
+    "codec_name": "aac",
+    "sample_rate": "48000",
+    "channels": 2,
+    "duration": "75.000000"
+  },
+  "full_video_decode": "passed",
+  "decoded_frames": 2250,
+  "blank_frames": [],
+  "minimum_visible_thumbnail_pixels": 192,
+  "visibility_method": "At least10thumbnail pixels contrast morethan18levels from#111111 and frame standard deviation exceeds2. This distinguishes real dark graphic content from empty/flat frames.",
+  "low_brightness_frames": [
+    2137,
+    2138
+  ],
+  "low_brightness_review": "Frames2137–2138 contain the visible dark file-window and lime border during its brief shape morph; actual decodedframe inspected.",
+  "final_card": {
+    "start": 72,
+    "end": 75,
+    "live_canvas_identical_frames": 90,
+    "decoded_thumbnail_max_rms_difference": 0.06477346271276474
+  },
+  "sha256": "88b25c3c81d1139d942fb0c1f503f9f24a4340268e381127739c27dd0993e398",
+  "file_bytes": 10450663,
+  "voiceover": "None; original instrumental synthesis and action effects only",
+  "client_footage": "Not supplied; authored original CGI video used as permitted, labelled Concept work at first appearance",
+  "services": {
+    "Quick Edit": {
+      "video": "One15–30s",
+      "aspect_ratios": 1,
+      "revision_rounds": 1,
+      "proposed_price": "€200 / project"
+    },
+    "Campaign Content Pack": {
+      "main_video": 1,
+      "main_max_seconds": 60,
+      "short_cutdowns": 2,
+      "matching_graphics": 3,
+      "proposed_price": "€500 / pack"
+    },
+    "Monthly Creative Support": {
+      "max_hours_per_month": 20,
+      "tasks_agreed_in_advance": true,
+      "proposed_price": "€900 / month"
+    }
+  },
+  "qa_report": "qa-report.json"
+}

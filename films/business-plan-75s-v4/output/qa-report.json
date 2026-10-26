@@ -1,0 +1,26 @@
+{
+  "format": "1920x1080 /30fps /75s",
+  "author_course": "passed",
+  "quick": {
+    "videos": 1,
+    "graphics": 0,
+    "price": "€200 / project"
+  },
+  "campaign": {
+    "videos": 3,
+    "graphics": 3,
+    "price": "€500 / pack"
+  },
+  "monthly": {
+    "max_hours": 20,
+    "price": "€900 / month"
+  },
+  "proposed_price_labels": "passed",
+  "moving_video_during_price": "passed",
+  "final_static_frames": 90,
+  "no_persistent_debug_labels": "passed",
+  "preview_playback": "passed",
+  "frame_scrub": "passed",
+  "config_edit": "passed",
+  "page_errors": []
+}
