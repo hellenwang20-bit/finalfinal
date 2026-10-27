@@ -1,0 +1,190 @@
+{
+  "fontFaces": [
+    {
+      "family": "Display",
+      "status": "loaded"
+    },
+    {
+      "family": "Body",
+      "status": "loaded"
+    },
+    {
+      "family": "Mono",
+      "status": "loaded"
+    }
+  ],
+  "glyphs": [
+    {
+      "glyph": "g",
+      "size": 29,
+      "pixelMismatches": 0,
+      "missingInkPixels": 0,
+      "passed": true
+    },
+    {
+      "glyph": "j",
+      "size": 29,
+      "pixelMismatches": 0,
+      "missingInkPixels": 0,
+      "passed": true
+    },
+    {
+      "glyph": "p",
+      "size": 29,
+      "pixelMismatches": 0,
+      "missingInkPixels": 0,
+      "passed": true
+    },
+    {
+      "glyph": "q",
+      "size": 29,
+      "pixelMismatches": 0,
+      "missingInkPixels": 0,
+      "passed": true
+    },
+    {
+      "glyph": "y",
+      "size": 29,
+      "pixelMismatches": 0,
+      "missingInkPixels": 0,
+      "passed": true
+    },
+    {
+      "glyph": "g",
+      "size": 44,
+      "pixelMismatches": 0,
+      "missingInkPixels": 0,
+      "passed": true
+    },
+    {
+      "glyph": "j",
+      "size": 44,
+      "pixelMismatches": 0,
+      "missingInkPixels": 0,
+      "passed": true
+    },
+    {
+      "glyph": "p",
+      "size": 44,
+      "pixelMismatches": 0,
+      "missingInkPixels": 0,
+      "passed": true
+    },
+    {
+      "glyph": "q",
+      "size": 44,
+      "pixelMismatches": 0,
+      "missingInkPixels": 0,
+      "passed": true
+    },
+    {
+      "glyph": "y",
+      "size": 44,
+      "pixelMismatches": 0,
+      "missingInkPixels": 0,
+      "passed": true
+    },
+    {
+      "glyph": "g",
+      "size": 64,
+      "pixelMismatches": 0,
+      "missingInkPixels": 0,
+      "passed": true
+    },
+    {
+      "glyph": "j",
+      "size": 64,
+      "pixelMismatches": 0,
+      "missingInkPixels": 0,
+      "passed": true
+    },
+    {
+      "glyph": "p",
+      "size": 64,
+      "pixelMismatches": 0,
+      "missingInkPixels": 0,
+      "passed": true
+    },
+    {
+      "glyph": "q",
+      "size": 64,
+      "pixelMismatches": 0,
+      "missingInkPixels": 0,
+      "passed": true
+    },
+    {
+      "glyph": "y",
+      "size": 64,
+      "pixelMismatches": 0,
+      "missingInkPixels": 0,
+      "passed": true
+    },
+    {
+      "glyph": "g",
+      "size": 85,
+      "pixelMismatches": 0,
+      "missingInkPixels": 0,
+      "passed": true
+    },
+    {
+      "glyph": "j",
+      "size": 85,
+      "pixelMismatches": 0,
+      "missingInkPixels": 0,
+      "passed": true
+    },
+    {
+      "glyph": "p",
+      "size": 85,
+      "pixelMismatches": 0,
+      "missingInkPixels": 0,
+      "passed": true
+    },
+    {
+      "glyph": "q",
+      "size": 85,
+      "pixelMismatches": 0,
+      "missingInkPixels": 0,
+      "passed": true
+    },
+    {
+      "glyph": "y",
+      "size": 85,
+      "pixelMismatches": 0,
+      "missingInkPixels": 0,
+      "passed": true
+    }
+  ],
+  "stableTimes": [
+    4,
+    10.4,
+    14,
+    16.5,
+    18.5,
+    21.45,
+    27.5,
+    30.8,
+    34.8,
+    37.8,
+    40.8,
+    42.8,
+    45.8,
+    48.8,
+    51.8,
+    54.8,
+    58.8,
+    59.8,
+    60.8,
+    62.8,
+    64.8,
+    66.8,
+    68.8,
+    70.8,
+    72.2
+  ],
+  "settledTextClipFindings": [],
+  "controlledEntryClips": [],
+  "pageErrors": [],
+  "generatedAtUtc": "2026-10-27T11:34:24.952Z",
+  "note": "Live-font/layout/mask regression only. Actual encoded MP4 frames must also be extracted and visually reviewed."
+}

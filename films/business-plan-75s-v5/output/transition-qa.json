@@ -1,0 +1,3246 @@
+{
+  "passed": true,
+  "scope": "Actual canvas fillText calls, alpha, active mask intersections and physical input-card geometry",
+  "input": {
+    "fadeStartFrame": 645,
+    "fadeEndFrame": 651,
+    "zeroTextGapFrames": [
+      651,
+      652
+    ],
+    "collapseStartFrame": 653,
+    "collapseEndFrame": 688,
+    "scannedFrames": [
+      640,
+      700
+    ],
+    "frames": [
+      {
+        "frame": 640,
+        "time": 21.333333333333332,
+        "textAlpha": 1,
+        "briefRect": [
+          100,
+          315,
+          500,
+          360
+        ],
+        "brandRect": [
+          685,
+          315,
+          500,
+          360
+        ],
+        "footageRect": [
+          1270,
+          315,
+          500,
+          360
+        ],
+        "drawnInternalText": [
+          {
+            "text": "Goal",
+            "alpha": 1,
+            "font": "35px Body",
+            "matrix": [
+              1,
+              0,
+              0,
+              1,
+              165,
+              389
+            ],
+            "ink": [
+              166,
+              362,
+              241.98291015625,
+              390
+            ],
+            "clip": [
+              0,
+              0,
+              1920,
+              1080
+            ],
+            "clipped": false
+          },
+          {
+            "text": "Audience",
+            "alpha": 1,
+            "font": "35px Body",
+            "matrix": [
+              1,
+              0,
+              0,
+              1,
+              165,
+              457
+            ],
+            "ink": [
+              165,
+              430,
+              326.025390625,
+              458
+            ],
+            "clip": [
+              0,
+              0,
+              1920,
+              1080
+            ],
+            "clipped": false
+          },
+          {
+            "text": "Message",
+            "alpha": 1,
+            "font": "35px Body",
+            "matrix": [
+              1,
+              0,
+              0,
+              1,
+              165,
+              525
+            ],
+            "ink": [
+              168,
+              499,
+              316.865234375,
+              532
+            ],
+            "clip": [
+              0,
+              0,
+              1920,
+              1080
+            ],
+            "clipped": false
+          },
+          {
+            "text": "Aa",
+            "alpha": 1,
+            "font": "113px Display",
+            "matrix": [
+              1,
+              0,
+              0,
+              1,
+              714,
+              644
+            ],
+            "ink": [
+              714,
+              562,
+              869.45361328125,
+              646
+            ],
+            "clip": [
+              0,
+              0,
+              1920,
+              1080
+            ],
+            "clipped": false
+          }
+        ],
+        "drawnInputHeadings": [
+          {
+            "text": "Your",
+            "alpha": 1
+          },
+          {
+            "text": "brief",
+            "alpha": 1
+          },
+          {
+            "text": "Your",
+            "alpha": 1
+          },
+          {
+            "text": "brand",
+            "alpha": 1
+          },
+          {
+            "text": "Your",
+            "alpha": 1
+          },
+          {
+            "text": "footage",
+            "alpha": 1
+          }
+        ]
+      },
+      {
+        "frame": 641,
+        "time": 21.366666666666667,
+        "textAlpha": 1,
+        "briefRect": [
+          100,
+          315,
+          500,
+          360
+        ],
+        "brandRect": [
+          685,
+          315,
+          500,
+          360
+        ],
+        "footageRect": [
+          1270,
+          315,
+          500,
+          360
+        ],
+        "drawnInternalText": [
+          {
+            "text": "Goal",
+            "alpha": 1,
+            "font": "35px Body",
+            "matrix": [
+              1,
+              0,
+              0,
+              1,
+              165,
+              389
+            ],
+            "ink": [
+              166,
+              362,
+              241.98291015625,
+              390
+            ],
+            "clip": [
+              0,
+              0,
+              1920,
+              1080
+            ],
+            "clipped": false
+          },
+          {
+            "text": "Audience",
+            "alpha": 1,
+            "font": "35px Body",
+            "matrix": [
+              1,
+              0,
+              0,
+              1,
+              165,
+              457
+            ],
+            "ink": [
+              165,
+              430,
+              326.025390625,
+              458
+            ],
+            "clip": [
+              0,
+              0,
+              1920,
+              1080
+            ],
+            "clipped": false
+          },
+          {
+            "text": "Message",
+            "alpha": 1,
+            "font": "35px Body",
+            "matrix": [
+              1,
+              0,
+              0,
+              1,
+              165,
+              525
+            ],
+            "ink": [
+              168,
+              499,
+              316.865234375,
+              532
+            ],
+            "clip": [
+              0,
+              0,
+              1920,
+              1080
+            ],
+            "clipped": false
+          },
+          {
+            "text": "Aa",
+            "alpha": 1,
+            "font": "113px Display",
+            "matrix": [
+              1,
+              0,
+              0,
+              1,
+              714,
+              644
+            ],
+            "ink": [
+              714,
+              562,
+              869.45361328125,
+              646
+            ],
+            "clip": [
+              0,
+              0,
+              1920,
+              1080
+            ],
+            "clipped": false
+          }
+        ],
+        "drawnInputHeadings": [
+          {
+            "text": "Your",
+            "alpha": 1
+          },
+          {
+            "text": "brief",
+            "alpha": 1
+          },
+          {
+            "text": "Your",
+            "alpha": 1
+          },
+          {
+            "text": "brand",
+            "alpha": 1
+          },
+          {
+            "text": "Your",
+            "alpha": 1
+          },
+          {
+            "text": "footage",
+            "alpha": 1
+          }
+        ]
+      },
+      {
+        "frame": 642,
+        "time": 21.4,
+        "textAlpha": 1,
+        "briefRect": [
+          100,
+          315,
+          500,
+          360
+        ],
+        "brandRect": [
+          685,
+          315,
+          500,
+          360
+        ],
+        "footageRect": [
+          1270,
+          315,
+          500,
+          360
+        ],
+        "drawnInternalText": [
+          {
+            "text": "Goal",
+            "alpha": 1,
+            "font": "35px Body",
+            "matrix": [
+              1,
+              0,
+              0,
+              1,
+              165,
+              389
+            ],
+            "ink": [
+              166,
+              362,
+              241.98291015625,
+              390
+            ],
+            "clip": [
+              0,
+              0,
+              1920,
+              1080
+            ],
+            "clipped": false
+          },
+          {
+            "text": "Audience",
+            "alpha": 1,
+            "font": "35px Body",
+            "matrix": [
+              1,
+              0,
+              0,
+              1,
+              165,
+              457
+            ],
+            "ink": [
+              165,
+              430,
+              326.025390625,
+              458
+            ],
+            "clip": [
+              0,
+              0,
+              1920,
+              1080
+            ],
+            "clipped": false
+          },
+          {
+            "text": "Message",
+            "alpha": 1,
+            "font": "35px Body",
+            "matrix": [
+              1,
+              0,
+              0,
+              1,
+              165,
+              525
+            ],
+            "ink": [
+              168,
+              499,
+              316.865234375,
+              532
+            ],
+            "clip": [
+              0,
+              0,
+              1920,
+              1080
+            ],
+            "clipped": false
+          },
+          {
+            "text": "Aa",
+            "alpha": 1,
+            "font": "113px Display",
+            "matrix": [
+              1,
+              0,
+              0,
+              1,
+              714,
+              644
+            ],
+            "ink": [
+              714,
+              562,
+              869.45361328125,
+              646
+            ],
+            "clip": [
+              0,
+              0,
+              1920,
+              1080
+            ],
+            "clipped": false
+          }
+        ],
+        "drawnInputHeadings": [
+          {
+            "text": "Your",
+            "alpha": 1
+          },
+          {
+            "text": "brief",
+            "alpha": 1
+          },
+          {
+            "text": "Your",
+            "alpha": 1
+          },
+          {
+            "text": "brand",
+            "alpha": 1
+          },
+          {
+            "text": "Your",
+            "alpha": 1
+          },
+          {
+            "text": "footage",
+            "alpha": 1
+          }
+        ]
+      },
+      {
+        "frame": 643,
+        "time": 21.433333333333334,
+        "textAlpha": 1,
+        "briefRect": [
+          100,
+          315,
+          500,
+          360
+        ],
+        "brandRect": [
+          685,
+          315,
+          500,
+          360
+        ],
+        "footageRect": [
+          1270,
+          315,
+          500,
+          360
+        ],
+        "drawnInternalText": [
+          {
+            "text": "Goal",
+            "alpha": 1,
+            "font": "35px Body",
+            "matrix": [
+              1,
+              0,
+              0,
+              1,
+              165,
+              389
+            ],
+            "ink": [
+              166,
+              362,
+              241.98291015625,
+              390
+            ],
+            "clip": [
+              0,
+              0,
+              1920,
+              1080
+            ],
+            "clipped": false
+          },
+          {
+            "text": "Audience",
+            "alpha": 1,
+            "font": "35px Body",
+            "matrix": [
+              1,
+              0,
+              0,
+              1,
+              165,
+              457
+            ],
+            "ink": [
+              165,
+              430,
+              326.025390625,
+              458
+            ],
+            "clip": [
+              0,
+              0,
+              1920,
+              1080
+            ],
+            "clipped": false
+          },
+          {
+            "text": "Message",
+            "alpha": 1,
+            "font": "35px Body",
+            "matrix": [
+              1,
+              0,
+              0,
+              1,
+              165,
+              525
+            ],
+            "ink": [
+              168,
+              499,
+              316.865234375,
+              532
+            ],
+            "clip": [
+              0,
+              0,
+              1920,
+              1080
+            ],
+            "clipped": false
+          },
+          {
+            "text": "Aa",
+            "alpha": 1,
+            "font": "113px Display",
+            "matrix": [
+              1,
+              0,
+              0,
+              1,
+              714,
+              644
+            ],
+            "ink": [
+              714,
+              562,
+              869.45361328125,
+              646
+            ],
+            "clip": [
+              0,
+              0,
+              1920,
+              1080
+            ],
+            "clipped": false
+          }
+        ],
+        "drawnInputHeadings": [
+          {
+            "text": "Your",
+            "alpha": 1
+          },
+          {
+            "text": "brief",
+            "alpha": 1
+          },
+          {
+            "text": "Your",
+            "alpha": 1
+          },
+          {
+            "text": "brand",
+            "alpha": 1
+          },
+          {
+            "text": "Your",
+            "alpha": 1
+          },
+          {
+            "text": "footage",
+            "alpha": 1
+          }
+        ]
+      },
+      {
+        "frame": 644,
+        "time": 21.466666666666665,
+        "textAlpha": 1,
+        "briefRect": [
+          100,
+          315,
+          500,
+          360
+        ],
+        "brandRect": [
+          685,
+          315,
+          500,
+          360
+        ],
+        "footageRect": [
+          1270,
+          315,
+          500,
+          360
+        ],
+        "drawnInternalText": [
+          {
+            "text": "Goal",
+            "alpha": 1,
+            "font": "35px Body",
+            "matrix": [
+              1,
+              0,
+              0,
+              1,
+              165,
+              389
+            ],
+            "ink": [
+              166,
+              362,
+              241.98291015625,
+              390
+            ],
+            "clip": [
+              0,
+              0,
+              1920,
+              1080
+            ],
+            "clipped": false
+          },
+          {
+            "text": "Audience",
+            "alpha": 1,
+            "font": "35px Body",
+            "matrix": [
+              1,
+              0,
+              0,
+              1,
+              165,
+              457
+            ],
+            "ink": [
+              165,
+              430,
+              326.025390625,
+              458
+            ],
+            "clip": [
+              0,
+              0,
+              1920,
+              1080
+            ],
+            "clipped": false
+          },
+          {
+            "text": "Message",
+            "alpha": 1,
+            "font": "35px Body",
+            "matrix": [
+              1,
+              0,
+              0,
+              1,
+              165,
+              525
+            ],
+            "ink": [
+              168,
+              499,
+              316.865234375,
+              532
+            ],
+            "clip": [
+              0,
+              0,
+              1920,
+              1080
+            ],
+            "clipped": false
+          },
+          {
+            "text": "Aa",
+            "alpha": 1,
+            "font": "113px Display",
+            "matrix": [
+              1,
+              0,
+              0,
+              1,
+              714,
+              644
+            ],
+            "ink": [
+              714,
+              562,
+              869.45361328125,
+              646
+            ],
+            "clip": [
+              0,
+              0,
+              1920,
+              1080
+            ],
+            "clipped": false
+          }
+        ],
+        "drawnInputHeadings": [
+          {
+            "text": "Your",
+            "alpha": 1
+          },
+          {
+            "text": "brief",
+            "alpha": 1
+          },
+          {
+            "text": "Your",
+            "alpha": 1
+          },
+          {
+            "text": "brand",
+            "alpha": 1
+          },
+          {
+            "text": "Your",
+            "alpha": 1
+          },
+          {
+            "text": "footage",
+            "alpha": 1
+          }
+        ]
+      },
+      {
+        "frame": 645,
+        "time": 21.5,
+        "textAlpha": 1,
+        "briefRect": [
+          100,
+          315,
+          500,
+          360
+        ],
+        "brandRect": [
+          685,
+          315,
+          500,
+          360
+        ],
+        "footageRect": [
+          1270,
+          315,
+          500,
+          360
+        ],
+        "drawnInternalText": [
+          {
+            "text": "Goal",
+            "alpha": 1,
+            "font": "35px Body",
+            "matrix": [
+              1,
+              0,
+              0,
+              1,
+              165,
+              389
+            ],
+            "ink": [
+              166,
+              362,
+              241.98291015625,
+              390
+            ],
+            "clip": [
+              0,
+              0,
+              1920,
+              1080
+            ],
+            "clipped": false
+          },
+          {
+            "text": "Audience",
+            "alpha": 1,
+            "font": "35px Body",
+            "matrix": [
+              1,
+              0,
+              0,
+              1,
+              165,
+              457
+            ],
+            "ink": [
+              165,
+              430,
+              326.025390625,
+              458
+            ],
+            "clip": [
+              0,
+              0,
+              1920,
+              1080
+            ],
+            "clipped": false
+          },
+          {
+            "text": "Message",
+            "alpha": 1,
+            "font": "35px Body",
+            "matrix": [
+              1,
+              0,
+              0,
+              1,
+              165,
+              525
+            ],
+            "ink": [
+              168,
+              499,
+              316.865234375,
+              532
+            ],
+            "clip": [
+              0,
+              0,
+              1920,
+              1080
+            ],
+            "clipped": false
+          },
+          {
+            "text": "Aa",
+            "alpha": 1,
+            "font": "113px Display",
+            "matrix": [
+              1,
+              0,
+              0,
+              1,
+              714,
+              644
+            ],
+            "ink": [
+              714,
+              562,
+              869.45361328125,
+              646
+            ],
+            "clip": [
+              0,
+              0,
+              1920,
+              1080
+            ],
+            "clipped": false
+          }
+        ],
+        "drawnInputHeadings": [
+          {
+            "text": "Your",
+            "alpha": 1
+          },
+          {
+            "text": "brief",
+            "alpha": 1
+          },
+          {
+            "text": "Your",
+            "alpha": 1
+          },
+          {
+            "text": "brand",
+            "alpha": 1
+          },
+          {
+            "text": "Your",
+            "alpha": 1
+          },
+          {
+            "text": "footage",
+            "alpha": 1
+          }
+        ]
+      },
+      {
+        "frame": 646,
+        "time": 21.533333333333335,
+        "textAlpha": 0.9938271604938271,
+        "briefRect": [
+          100,
+          315,
+          500,
+          360
+        ],
+        "brandRect": [
+          685,
+          315,
+          500,
+          360
+        ],
+        "footageRect": [
+          1270,
+          315,
+          500,
+          360
+        ],
+        "drawnInternalText": [
+          {
+            "text": "Goal",
+            "alpha": 0.9938271604938271,
+            "font": "35px Body",
+            "matrix": [
+              1,
+              0,
+              0,
+              1,
+              165,
+              389
+            ],
+            "ink": [
+              166,
+              362,
+              241.98291015625,
+              390
+            ],
+            "clip": [
+              0,
+              0,
+              1920,
+              1080
+            ],
+            "clipped": false
+          },
+          {
+            "text": "Audience",
+            "alpha": 0.9938271604938271,
+            "font": "35px Body",
+            "matrix": [
+              1,
+              0,
+              0,
+              1,
+              165,
+              457
+            ],
+            "ink": [
+              165,
+              430,
+              326.025390625,
+              458
+            ],
+            "clip": [
+              0,
+              0,
+              1920,
+              1080
+            ],
+            "clipped": false
+          },
+          {
+            "text": "Message",
+            "alpha": 0.9938271604938271,
+            "font": "35px Body",
+            "matrix": [
+              1,
+              0,
+              0,
+              1,
+              165,
+              525
+            ],
+            "ink": [
+              168,
+              499,
+              316.865234375,
+              532
+            ],
+            "clip": [
+              0,
+              0,
+              1920,
+              1080
+            ],
+            "clipped": false
+          },
+          {
+            "text": "Aa",
+            "alpha": 0.9938271604938271,
+            "font": "113px Display",
+            "matrix": [
+              1,
+              0,
+              0,
+              1,
+              714,
+              644
+            ],
+            "ink": [
+              714,
+              562,
+              869.45361328125,
+              646
+            ],
+            "clip": [
+              0,
+              0,
+              1920,
+              1080
+            ],
+            "clipped": false
+          }
+        ],
+        "drawnInputHeadings": [
+          {
+            "text": "Your",
+            "alpha": 0.9938271604938271
+          },
+          {
+            "text": "brief",
+            "alpha": 0.9938271604938271
+          },
+          {
+            "text": "Your",
+            "alpha": 0.9938271604938271
+          },
+          {
+            "text": "brand",
+            "alpha": 0.9938271604938271
+          },
+          {
+            "text": "Your",
+            "alpha": 0.9938271604938271
+          },
+          {
+            "text": "footage",
+            "alpha": 0.9938271604938271
+          }
+        ]
+      },
+      {
+        "frame": 647,
+        "time": 21.566666666666666,
+        "textAlpha": 0.9012345679012346,
+        "briefRect": [
+          100,
+          315,
+          500,
+          360
+        ],
+        "brandRect": [
+          685,
+          315,
+          500,
+          360
+        ],
+        "footageRect": [
+          1270,
+          315,
+          500,
+          360
+        ],
+        "drawnInternalText": [
+          {
+            "text": "Goal",
+            "alpha": 0.9012345679012346,
+            "font": "35px Body",
+            "matrix": [
+              1,
+              0,
+              0,
+              1,
+              165,
+              389
+            ],
+            "ink": [
+              166,
+              362,
+              241.98291015625,
+              390
+            ],
+            "clip": [
+              0,
+              0,
+              1920,
+              1080
+            ],
+            "clipped": false
+          },
+          {
+            "text": "Audience",
+            "alpha": 0.9012345679012346,
+            "font": "35px Body",
+            "matrix": [
+              1,
+              0,
+              0,
+              1,
+              165,
+              457
+            ],
+            "ink": [
+              165,
+              430,
+              326.025390625,
+              458
+            ],
+            "clip": [
+              0,
+              0,
+              1920,
+              1080
+            ],
+            "clipped": false
+          },
+          {
+            "text": "Message",
+            "alpha": 0.9012345679012346,
+            "font": "35px Body",
+            "matrix": [
+              1,
+              0,
+              0,
+              1,
+              165,
+              525
+            ],
+            "ink": [
+              168,
+              499,
+              316.865234375,
+              532
+            ],
+            "clip": [
+              0,
+              0,
+              1920,
+              1080
+            ],
+            "clipped": false
+          },
+          {
+            "text": "Aa",
+            "alpha": 0.9012345679012346,
+            "font": "113px Display",
+            "matrix": [
+              1,
+              0,
+              0,
+              1,
+              714,
+              644
+            ],
+            "ink": [
+              714,
+              562,
+              869.45361328125,
+              646
+            ],
+            "clip": [
+              0,
+              0,
+              1920,
+              1080
+            ],
+            "clipped": false
+          }
+        ],
+        "drawnInputHeadings": [
+          {
+            "text": "Your",
+            "alpha": 0.9012345679012346
+          },
+          {
+            "text": "brief",
+            "alpha": 0.9012345679012346
+          },
+          {
+            "text": "Your",
+            "alpha": 0.9012345679012346
+          },
+          {
+            "text": "brand",
+            "alpha": 0.9012345679012346
+          },
+          {
+            "text": "Your",
+            "alpha": 0.9012345679012346
+          },
+          {
+            "text": "footage",
+            "alpha": 0.9012345679012346
+          }
+        ]
+      },
+      {
+        "frame": 648,
+        "time": 21.6,
+        "textAlpha": 0.5,
+        "briefRect": [
+          100,
+          315,
+          500,
+          360
+        ],
+        "brandRect": [
+          685,
+          315,
+          500,
+          360
+        ],
+        "footageRect": [
+          1270,
+          315,
+          500,
+          360
+        ],
+        "drawnInternalText": [
+          {
+            "text": "Goal",
+            "alpha": 0.5,
+            "font": "35px Body",
+            "matrix": [
+              1,
+              0,
+              0,
+              1,
+              165,
+              389
+            ],
+            "ink": [
+              166,
+              362,
+              241.98291015625,
+              390
+            ],
+            "clip": [
+              0,
+              0,
+              1920,
+              1080
+            ],
+            "clipped": false
+          },
+          {
+            "text": "Audience",
+            "alpha": 0.5,
+            "font": "35px Body",
+            "matrix": [
+              1,
+              0,
+              0,
+              1,
+              165,
+              457
+            ],
+            "ink": [
+              165,
+              430,
+              326.025390625,
+              458
+            ],
+            "clip": [
+              0,
+              0,
+              1920,
+              1080
+            ],
+            "clipped": false
+          },
+          {
+            "text": "Message",
+            "alpha": 0.5,
+            "font": "35px Body",
+            "matrix": [
+              1,
+              0,
+              0,
+              1,
+              165,
+              525
+            ],
+            "ink": [
+              168,
+              499,
+              316.865234375,
+              532
+            ],
+            "clip": [
+              0,
+              0,
+              1920,
+              1080
+            ],
+            "clipped": false
+          },
+          {
+            "text": "Aa",
+            "alpha": 0.5,
+            "font": "113px Display",
+            "matrix": [
+              1,
+              0,
+              0,
+              1,
+              714,
+              644
+            ],
+            "ink": [
+              714,
+              562,
+              869.45361328125,
+              646
+            ],
+            "clip": [
+              0,
+              0,
+              1920,
+              1080
+            ],
+            "clipped": false
+          }
+        ],
+        "drawnInputHeadings": [
+          {
+            "text": "Your",
+            "alpha": 0.5
+          },
+          {
+            "text": "brief",
+            "alpha": 0.5
+          },
+          {
+            "text": "Your",
+            "alpha": 0.5
+          },
+          {
+            "text": "brand",
+            "alpha": 0.5
+          },
+          {
+            "text": "Your",
+            "alpha": 0.5
+          },
+          {
+            "text": "footage",
+            "alpha": 0.5
+          }
+        ]
+      },
+      {
+        "frame": 649,
+        "time": 21.633333333333333,
+        "textAlpha": 0.09876543209876543,
+        "briefRect": [
+          100,
+          315,
+          500,
+          360
+        ],
+        "brandRect": [
+          685,
+          315,
+          500,
+          360
+        ],
+        "footageRect": [
+          1270,
+          315,
+          500,
+          360
+        ],
+        "drawnInternalText": [
+          {
+            "text": "Goal",
+            "alpha": 0.09876543209876543,
+            "font": "35px Body",
+            "matrix": [
+              1,
+              0,
+              0,
+              1,
+              165,
+              389
+            ],
+            "ink": [
+              166,
+              362,
+              241.98291015625,
+              390
+            ],
+            "clip": [
+              0,
+              0,
+              1920,
+              1080
+            ],
+            "clipped": false
+          },
+          {
+            "text": "Audience",
+            "alpha": 0.09876543209876543,
+            "font": "35px Body",
+            "matrix": [
+              1,
+              0,
+              0,
+              1,
+              165,
+              457
+            ],
+            "ink": [
+              165,
+              430,
+              326.025390625,
+              458
+            ],
+            "clip": [
+              0,
+              0,
+              1920,
+              1080
+            ],
+            "clipped": false
+          },
+          {
+            "text": "Message",
+            "alpha": 0.09876543209876543,
+            "font": "35px Body",
+            "matrix": [
+              1,
+              0,
+              0,
+              1,
+              165,
+              525
+            ],
+            "ink": [
+              168,
+              499,
+              316.865234375,
+              532
+            ],
+            "clip": [
+              0,
+              0,
+              1920,
+              1080
+            ],
+            "clipped": false
+          },
+          {
+            "text": "Aa",
+            "alpha": 0.09876543209876543,
+            "font": "113px Display",
+            "matrix": [
+              1,
+              0,
+              0,
+              1,
+              714,
+              644
+            ],
+            "ink": [
+              714,
+              562,
+              869.45361328125,
+              646
+            ],
+            "clip": [
+              0,
+              0,
+              1920,
+              1080
+            ],
+            "clipped": false
+          }
+        ],
+        "drawnInputHeadings": [
+          {
+            "text": "Your",
+            "alpha": 0.09876543209876543
+          },
+          {
+            "text": "brief",
+            "alpha": 0.09876543209876543
+          },
+          {
+            "text": "Your",
+            "alpha": 0.09876543209876543
+          },
+          {
+            "text": "brand",
+            "alpha": 0.09876543209876543
+          },
+          {
+            "text": "Your",
+            "alpha": 0.09876543209876543
+          },
+          {
+            "text": "footage",
+            "alpha": 0.09876543209876543
+          }
+        ]
+      },
+      {
+        "frame": 650,
+        "time": 21.666666666666668,
+        "textAlpha": 0.006172839506172867,
+        "briefRect": [
+          100,
+          315,
+          500,
+          360
+        ],
+        "brandRect": [
+          685,
+          315,
+          500,
+          360
+        ],
+        "footageRect": [
+          1270,
+          315,
+          500,
+          360
+        ],
+        "drawnInternalText": [
+          {
+            "text": "Goal",
+            "alpha": 0.006172839506172867,
+            "font": "35px Body",
+            "matrix": [
+              1,
+              0,
+              0,
+              1,
+              165,
+              389
+            ],
+            "ink": [
+              166,
+              362,
+              241.98291015625,
+              390
+            ],
+            "clip": [
+              0,
+              0,
+              1920,
+              1080
+            ],
+            "clipped": false
+          },
+          {
+            "text": "Audience",
+            "alpha": 0.006172839506172867,
+            "font": "35px Body",
+            "matrix": [
+              1,
+              0,
+              0,
+              1,
+              165,
+              457
+            ],
+            "ink": [
+              165,
+              430,
+              326.025390625,
+              458
+            ],
+            "clip": [
+              0,
+              0,
+              1920,
+              1080
+            ],
+            "clipped": false
+          },
+          {
+            "text": "Message",
+            "alpha": 0.006172839506172867,
+            "font": "35px Body",
+            "matrix": [
+              1,
+              0,
+              0,
+              1,
+              165,
+              525
+            ],
+            "ink": [
+              168,
+              499,
+              316.865234375,
+              532
+            ],
+            "clip": [
+              0,
+              0,
+              1920,
+              1080
+            ],
+            "clipped": false
+          },
+          {
+            "text": "Aa",
+            "alpha": 0.006172839506172867,
+            "font": "113px Display",
+            "matrix": [
+              1,
+              0,
+              0,
+              1,
+              714,
+              644
+            ],
+            "ink": [
+              714,
+              562,
+              869.45361328125,
+              646
+            ],
+            "clip": [
+              0,
+              0,
+              1920,
+              1080
+            ],
+            "clipped": false
+          }
+        ],
+        "drawnInputHeadings": [
+          {
+            "text": "Your",
+            "alpha": 0.006172839506172867
+          },
+          {
+            "text": "brief",
+            "alpha": 0.006172839506172867
+          },
+          {
+            "text": "Your",
+            "alpha": 0.006172839506172867
+          },
+          {
+            "text": "brand",
+            "alpha": 0.006172839506172867
+          },
+          {
+            "text": "Your",
+            "alpha": 0.006172839506172867
+          },
+          {
+            "text": "footage",
+            "alpha": 0.006172839506172867
+          }
+        ]
+      },
+      {
+        "frame": 651,
+        "time": 21.7,
+        "textAlpha": 0,
+        "briefRect": [
+          100,
+          315,
+          500,
+          360
+        ],
+        "brandRect": [
+          685,
+          315,
+          500,
+          360
+        ],
+        "footageRect": [
+          1270,
+          315,
+          500,
+          360
+        ],
+        "drawnInternalText": [],
+        "drawnInputHeadings": []
+      },
+      {
+        "frame": 652,
+        "time": 21.733333333333334,
+        "textAlpha": 0,
+        "briefRect": [
+          100,
+          315,
+          500,
+          360
+        ],
+        "brandRect": [
+          685,
+          315,
+          500,
+          360
+        ],
+        "footageRect": [
+          1270,
+          315,
+          500,
+          360
+        ],
+        "drawnInternalText": [],
+        "drawnInputHeadings": []
+      },
+      {
+        "frame": 653,
+        "time": 21.766666666666666,
+        "textAlpha": 0,
+        "briefRect": [
+          100,
+          315,
+          500,
+          360
+        ],
+        "brandRect": [
+          685,
+          315,
+          500,
+          360
+        ],
+        "footageRect": [
+          1270,
+          315,
+          500,
+          360
+        ],
+        "drawnInternalText": [],
+        "drawnInputHeadings": []
+      },
+      {
+        "frame": 654,
+        "time": 21.8,
+        "textAlpha": 0,
+        "briefRect": [
+          100,
+          315.00261224489793,
+          500.0001599333611,
+          359.99864056643065
+        ],
+        "brandRect": [
+          685.0000533111204,
+          315.00261224489793,
+          500.0001599333611,
+          359.99864056643065
+        ],
+        "footageRect": [
+          1269.9999466888796,
+          315.00261224489793,
+          500.0002132444815,
+          359.99864056643065
+        ],
+        "drawnInternalText": [],
+        "drawnInputHeadings": []
+      },
+      {
+        "frame": 655,
+        "time": 21.833333333333332,
+        "textAlpha": 0,
+        "briefRect": [
+          100,
+          315.04179591836737,
+          500.0025589337776,
+          359.9782490628905
+        ],
+        "brandRect": [
+          685.0008529779259,
+          315.04179591836737,
+          500.0025589337776,
+          359.9782490628905
+        ],
+        "footageRect": [
+          1269.999147022074,
+          315.04179591836737,
+          500.00341191170344,
+          359.9782490628905
+        ],
+        "drawnInternalText": [],
+        "drawnInputHeadings": []
+      },
+      {
+        "frame": 656,
+        "time": 21.866666666666667,
+        "textAlpha": 0,
+        "briefRect": [
+          100,
+          315.2115918367347,
+          500.01295460224907,
+          359.88988588088296
+        ],
+        "brandRect": [
+          685.0043182007497,
+          315.2115918367347,
+          500.01295460224907,
+          359.88988588088296
+        ],
+        "footageRect": [
+          1269.9956817992504,
+          315.2115918367347,
+          500.0172728029988,
+          359.88988588088296
+        ],
+        "drawnInternalText": [],
+        "drawnInputHeadings": []
+      },
+      {
+        "frame": 657,
+        "time": 21.9,
+        "textAlpha": 0,
+        "briefRect": [
+          100,
+          315.6687346938775,
+          500.0409429404415,
+          359.6519850062474
+        ],
+        "brandRect": [
+          685.0136476468139,
+          315.6687346938775,
+          500.0409429404415,
+          359.6519850062474
+        ],
+        "footageRect": [
+          1269.9863523531862,
+          315.6687346938775,
+          500.0545905872553,
+          359.6519850062474
+        ],
+        "drawnInternalText": [],
+        "drawnInputHeadings": []
+      },
+      {
+        "frame": 658,
+        "time": 21.933333333333334,
+        "textAlpha": 0,
+        "briefRect": [
+          100,
+          316.6326530612245,
+          500.0999583506872,
+          359.15035401915867
+        ],
+        "brandRect": [
+          685.0333194502291,
+          316.6326530612245,
+          500.0999583506872,
+          359.15035401915867
+        ],
+        "footageRect": [
+          1269.966680549771,
+          316.6326530612245,
+          500.1332778009163,
+          359.15035401915867
+        ],
+        "drawnInternalText": [],
+        "drawnInputHeadings": []
+      },
+      {
+        "frame": 659,
+        "time": 21.966666666666665,
+        "textAlpha": 0,
+        "briefRect": [
+          100,
+          318.38546938775505,
+          500.207273635985,
+          358.2381740941275
+        ],
+        "brandRect": [
+          685.069091211995,
+          318.38546938775505,
+          500.207273635985,
+          358.2381740941275
+        ],
+        "footageRect": [
+          1269.930908788005,
+          318.38546938775505,
+          500.27636484798,
+          358.2381740941275
+        ],
+        "drawnInternalText": [],
+        "drawnInputHeadings": []
+      },
+      {
+        "frame": 660,
+        "time": 22,
+        "textAlpha": 0,
+        "briefRect": [
+          100,
+          321.2720000000001,
+          500.384,
+          356.73599999999993
+        ],
+        "brandRect": [
+          685.128,
+          321.2720000000001,
+          500.384,
+          356.73599999999993
+        ],
+        "footageRect": [
+          1269.872,
+          321.2720000000001,
+          500.512,
+          356.73599999999993
+        ],
+        "drawnInternalText": [],
+        "drawnInputHeadings": []
+      },
+      {
+        "frame": 661,
+        "time": 22.033333333333335,
+        "textAlpha": 0,
+        "briefRect": [
+          100,
+          325.6997551020412,
+          500.6550870470638,
+          354.4317600999582
+        ],
+        "brandRect": [
+          685.2183623490213,
+          325.6997551020412,
+          500.6550870470638,
+          354.4317600999582
+        ],
+        "footageRect": [
+          1269.7816376509788,
+          325.6997551020412,
+          500.873449396085,
+          354.4317600999582
+        ],
+        "drawnInternalText": [],
+        "drawnInputHeadings": []
+      },
+      {
+        "frame": 662,
+        "time": 22.066666666666666,
+        "textAlpha": 0,
+        "briefRect": [
+          100,
+          332.1389387755103,
+          501.0493227821741,
+          351.08075635152017
+        ],
+        "brandRect": [
+          685.3497742607246,
+          332.1389387755103,
+          501.0493227821741,
+          351.08075635152017
+        ],
+        "footageRect": [
+          1269.6502257392754,
+          332.1389387755103,
+          501.3990970428988,
+          351.08075635152017
+        ],
+        "drawnInternalText": [],
+        "drawnInputHeadings": []
+      },
+      {
+        "frame": 663,
+        "time": 22.1,
+        "textAlpha": 0,
+        "briefRect": [
+          100,
+          341.1224489795925,
+          501.5993336109955,
+          346.4056643065386
+        ],
+        "brandRect": [
+          685.5331112036652,
+          341.1224489795925,
+          501.5993336109955,
+          346.4056643065386
+        ],
+        "footageRect": [
+          1269.4668887963348,
+          341.1224489795925,
+          502.13244481466063,
+          346.4056643065386
+        ],
+        "drawnInternalText": [],
+        "drawnInputHeadings": []
+      },
+      {
+        "frame": 664,
+        "time": 22.133333333333333,
+        "textAlpha": 0,
+        "briefRect": [
+          100,
+          353.24587755102044,
+          502.3415843398584,
+          340.09653311120366
+        ],
+        "brandRect": [
+          685.7805281132861,
+          353.24587755102044,
+          502.3415843398584,
+          340.09653311120366
+        ],
+        "footageRect": [
+          1269.2194718867138,
+          353.24587755102044,
+          503.12211245314455,
+          340.09653311120366
+        ],
+        "drawnInternalText": [],
+        "drawnInputHeadings": []
+      },
+      {
+        "frame": 665,
+        "time": 22.166666666666668,
+        "textAlpha": 0,
+        "briefRect": [
+          100,
+          369.1675102040826,
+          503.3163781757602,
+          331.81078550603866
+        ],
+        "brandRect": [
+          686.10545939192,
+          369.1675102040826,
+          503.3163781757602,
+          331.81078550603866
+        ],
+        "footageRect": [
+          1268.89454060808,
+          369.1675102040826,
+          504.4218375676802,
+          331.81078550603866
+        ],
+        "drawnInternalText": [],
+        "drawnInputHeadings": []
+      },
+      {
+        "frame": 666,
+        "time": 22.2,
+        "textAlpha": 0,
+        "briefRect": [
+          100,
+          389.6083265306121,
+          504.567856726364,
+          321.1732178259059
+        ],
+        "brandRect": [
+          686.522618908788,
+          389.6083265306121,
+          504.567856726364,
+          321.1732178259059
+        ],
+        "footageRect": [
+          1268.477381091212,
+          389.6083265306121,
+          506.090475635152,
+          321.1732178259059
+        ],
+        "drawnInternalText": [],
+        "drawnInputHeadings": []
+      },
+      {
+        "frame": 667,
+        "time": 22.233333333333334,
+        "textAlpha": 0,
+        "briefRect": [
+          100,
+          415.3520000000012,
+          506.14400000000006,
+          307.7759999999993
+        ],
+        "brandRect": [
+          687.048,
+          415.3520000000012,
+          506.14400000000006,
+          307.7759999999993
+        ],
+        "footageRect": [
+          1267.952,
+          415.3520000000012,
+          508.1920000000001,
+          307.7759999999993
+        ],
+        "drawnInternalText": [],
+        "drawnInputHeadings": []
+      },
+      {
+        "frame": 668,
+        "time": 22.266666666666666,
+        "textAlpha": 0,
+        "briefRect": [
+          100,
+          447.24489795918316,
+          508.09662640566427,
+          291.17867555185364
+        ],
+        "brandRect": [
+          687.6988754685548,
+          447.24489795918316,
+          508.09662640566427,
+          291.17867555185364
+        ],
+        "footageRect": [
+          1267.3011245314453,
+          447.24489795918316,
+          510.79550187421904,
+          291.17867555185364
+        ],
+        "drawnInternalText": [],
+        "drawnInputHeadings": []
+      },
+      {
+        "frame": 669,
+        "time": 22.3,
+        "textAlpha": 0,
+        "briefRect": [
+          100,
+          486.19608163265445,
+          510.48139275301963,
+          270.90816159933286
+        ],
+        "brandRect": [
+          688.4937975843399,
+          486.19608163265445,
+          510.48139275301963,
+          270.90816159933286
+        ],
+        "footageRect": [
+          1266.50620241566,
+          486.19608163265445,
+          513.9751903373595,
+          270.90816159933286
+        ],
+        "drawnInternalText": [],
+        "drawnInputHeadings": []
+      },
+      {
+        "frame": 670,
+        "time": 22.333333333333332,
+        "textAlpha": 0,
+        "briefRect": [
+          100,
+          533.1773061224478,
+          513.3577942523948,
+          246.4587488546445
+        ],
+        "brandRect": [
+          689.4525980841316,
+          533.1773061224478,
+          513.3577942523948,
+          246.4587488546445
+        ],
+        "footageRect": [
+          1265.5474019158685,
+          533.1773061224478,
+          517.8103923365263,
+          246.4587488546445
+        ],
+        "drawnInternalText": [],
+        "drawnInputHeadings": []
+      },
+      {
+        "frame": 671,
+        "time": 22.366666666666667,
+        "textAlpha": 0,
+        "briefRect": [
+          100,
+          586.8226938775524,
+          516.6422057476052,
+          218.5412511453554
+        ],
+        "brandRect": [
+          690.5474019158684,
+          586.8226938775524,
+          516.6422057476052,
+          218.5412511453554
+        ],
+        "footageRect": [
+          1264.4525980841315,
+          586.8226938775524,
+          522.1896076634737,
+          218.5412511453554
+        ],
+        "drawnInternalText": [],
+        "drawnInputHeadings": []
+      },
+      {
+        "frame": 672,
+        "time": 22.4,
+        "textAlpha": 0,
+        "briefRect": [
+          100,
+          633.8039183673457,
+          519.5186072469803,
+          194.0918384006671
+        ],
+        "brandRect": [
+          691.5062024156601,
+          633.8039183673457,
+          519.5186072469803,
+          194.0918384006671
+        ],
+        "footageRect": [
+          1263.49379758434,
+          633.8039183673457,
+          526.0248096626405,
+          194.0918384006671
+        ],
+        "drawnInternalText": [],
+        "drawnInputHeadings": []
+      },
+      {
+        "frame": 673,
+        "time": 22.433333333333334,
+        "textAlpha": 0,
+        "briefRect": [
+          100,
+          672.7551020408168,
+          521.9033735943357,
+          173.82132444814633
+        ],
+        "brandRect": [
+          692.3011245314452,
+          672.7551020408168,
+          521.9033735943357,
+          173.82132444814633
+        ],
+        "footageRect": [
+          1262.6988754685547,
+          672.7551020408168,
+          529.204498125781,
+          173.82132444814633
+        ],
+        "drawnInternalText": [],
+        "drawnInputHeadings": []
+      },
+      {
+        "frame": 674,
+        "time": 22.466666666666665,
+        "textAlpha": 0,
+        "briefRect": [
+          100,
+          704.6479999999988,
+          523.8559999999999,
+          157.22400000000064
+        ],
+        "brandRect": [
+          692.952,
+          704.6479999999988,
+          523.8559999999999,
+          157.22400000000064
+        ],
+        "footageRect": [
+          1262.048,
+          704.6479999999988,
+          531.8079999999999,
+          157.22400000000061
+        ],
+        "drawnInternalText": [],
+        "drawnInputHeadings": []
+      },
+      {
+        "frame": 675,
+        "time": 22.5,
+        "textAlpha": 0,
+        "briefRect": [
+          100,
+          730.3916734693879,
+          525.432143273636,
+          143.82678217409403
+        ],
+        "brandRect": [
+          693.477381091212,
+          730.3916734693879,
+          525.432143273636,
+          143.82678217409403
+        ],
+        "footageRect": [
+          1261.522618908788,
+          730.3916734693879,
+          533.909524364848,
+          143.82678217409403
+        ],
+        "drawnInternalText": [],
+        "drawnInputHeadings": []
+      },
+      {
+        "frame": 676,
+        "time": 22.533333333333335,
+        "textAlpha": 0,
+        "briefRect": [
+          100,
+          750.8324897959194,
+          526.6836218242399,
+          133.18921449396032
+        ],
+        "brandRect": [
+          693.89454060808,
+          750.8324897959194,
+          526.6836218242399,
+          133.18921449396032
+        ],
+        "footageRect": [
+          1261.10545939192,
+          750.8324897959194,
+          535.5781624323199,
+          133.18921449396032
+        ],
+        "drawnInternalText": [],
+        "drawnInputHeadings": []
+      },
+      {
+        "frame": 677,
+        "time": 22.566666666666666,
+        "textAlpha": 0,
+        "briefRect": [
+          100,
+          766.7541224489796,
+          527.6584156601416,
+          124.90346688879637
+        ],
+        "brandRect": [
+          694.2194718867139,
+          766.7541224489796,
+          527.6584156601416,
+          124.90346688879637
+        ],
+        "footageRect": [
+          1260.7805281132862,
+          766.7541224489796,
+          536.8778875468555,
+          124.9034668887964
+        ],
+        "drawnInternalText": [],
+        "drawnInputHeadings": []
+      },
+      {
+        "frame": 678,
+        "time": 22.6,
+        "textAlpha": 0,
+        "briefRect": [
+          100,
+          778.8775510204086,
+          528.4006663890046,
+          118.5943356934608
+        ],
+        "brandRect": [
+          694.4668887963348,
+          778.8775510204086,
+          528.4006663890046,
+          118.5943356934608
+        ],
+        "footageRect": [
+          1260.5331112036652,
+          778.8775510204086,
+          537.8675551853395,
+          118.59433569346083
+        ],
+        "drawnInternalText": [],
+        "drawnInputHeadings": []
+      },
+      {
+        "frame": 679,
+        "time": 22.633333333333333,
+        "textAlpha": 0,
+        "briefRect": [
+          100,
+          787.8610612244897,
+          528.9506772178258,
+          113.91924364847986
+        ],
+        "brandRect": [
+          694.6502257392754,
+          787.8610612244897,
+          528.9506772178258,
+          113.91924364847986
+        ],
+        "footageRect": [
+          1260.3497742607246,
+          787.8610612244897,
+          538.6009029571012,
+          113.91924364847989
+        ],
+        "drawnInternalText": [],
+        "drawnInputHeadings": []
+      },
+      {
+        "frame": 680,
+        "time": 22.666666666666668,
+        "textAlpha": 0,
+        "briefRect": [
+          100,
+          794.3002448979594,
+          529.3449129529363,
+          110.56823990004156
+        ],
+        "brandRect": [
+          694.7816376509787,
+          794.3002448979594,
+          529.3449129529363,
+          110.56823990004156
+        ],
+        "footageRect": [
+          1260.2183623490212,
+          794.3002448979594,
+          539.126550603915,
+          110.56823990004159
+        ],
+        "drawnInternalText": [],
+        "drawnInputHeadings": []
+      },
+      {
+        "frame": 681,
+        "time": 22.7,
+        "textAlpha": 0,
+        "briefRect": [
+          100,
+          798.728,
+          529.616,
+          108.26400000000004
+        ],
+        "brandRect": [
+          694.872,
+          798.728,
+          529.616,
+          108.26400000000004
+        ],
+        "footageRect": [
+          1260.128,
+          798.728,
+          539.4879999999999,
+          108.26400000000001
+        ],
+        "drawnInternalText": [],
+        "drawnInputHeadings": []
+      },
+      {
+        "frame": 682,
+        "time": 22.733333333333334,
+        "textAlpha": 0,
+        "briefRect": [
+          100,
+          801.6145306122451,
+          529.792726364015,
+          106.76182590587251
+        ],
+        "brandRect": [
+          694.930908788005,
+          801.6145306122451,
+          529.792726364015,
+          106.76182590587251
+        ],
+        "footageRect": [
+          1260.069091211995,
+          801.6145306122451,
+          539.72363515202,
+          106.76182590587251
+        ],
+        "drawnInternalText": [],
+        "drawnInputHeadings": []
+      },
+      {
+        "frame": 683,
+        "time": 22.766666666666666,
+        "textAlpha": 0,
+        "briefRect": [
+          100,
+          803.3673469387754,
+          529.9000416493128,
+          105.84964598084133
+        ],
+        "brandRect": [
+          694.9666805497709,
+          803.3673469387754,
+          529.9000416493128,
+          105.84964598084133
+        ],
+        "footageRect": [
+          1260.033319450229,
+          803.3673469387754,
+          539.8667221990837,
+          105.84964598084133
+        ],
+        "drawnInternalText": [],
+        "drawnInputHeadings": []
+      },
+      {
+        "frame": 684,
+        "time": 22.8,
+        "textAlpha": 0,
+        "briefRect": [
+          100,
+          804.3312653061225,
+          529.9590570595585,
+          105.3480149937526
+        ],
+        "brandRect": [
+          694.9863523531861,
+          804.3312653061225,
+          529.9590570595585,
+          105.3480149937526
+        ],
+        "footageRect": [
+          1260.0136476468138,
+          804.3312653061225,
+          539.9454094127447,
+          105.3480149937526
+        ],
+        "drawnInternalText": [],
+        "drawnInputHeadings": []
+      },
+      {
+        "frame": 685,
+        "time": 22.833333333333332,
+        "textAlpha": 0,
+        "briefRect": [
+          100,
+          804.7884081632653,
+          529.987045397751,
+          105.11011411911704
+        ],
+        "brandRect": [
+          694.9956817992503,
+          804.7884081632653,
+          529.987045397751,
+          105.11011411911704
+        ],
+        "footageRect": [
+          1260.0043182007496,
+          804.7884081632653,
+          539.9827271970013,
+          105.11011411911704
+        ],
+        "drawnInternalText": [],
+        "drawnInputHeadings": []
+      },
+      {
+        "frame": 686,
+        "time": 22.866666666666667,
+        "textAlpha": 0,
+        "briefRect": [
+          100,
+          804.9582040816326,
+          529.9974410662224,
+          105.02175093710952
+        ],
+        "brandRect": [
+          694.9991470220741,
+          804.9582040816326,
+          529.9974410662224,
+          105.02175093710952
+        ],
+        "footageRect": [
+          1260.000852977926,
+          804.9582040816326,
+          539.9965880882966,
+          105.02175093710952
+        ],
+        "drawnInternalText": [],
+        "drawnInputHeadings": []
+      },
+      {
+        "frame": 687,
+        "time": 22.9,
+        "textAlpha": 0,
+        "briefRect": [
+          100,
+          804.9973877551021,
+          529.9998400666389,
+          105.00135943356932
+        ],
+        "brandRect": [
+          694.9999466888796,
+          804.9973877551021,
+          529.9998400666389,
+          105.00135943356932
+        ],
+        "footageRect": [
+          1260.0000533111204,
+          804.9973877551021,
+          539.9997867555186,
+          105.00135943356929
+        ],
+        "drawnInternalText": [],
+        "drawnInputHeadings": []
+      },
+      {
+        "frame": 688,
+        "time": 22.933333333333334,
+        "textAlpha": 0,
+        "briefRect": [
+          100,
+          805,
+          530,
+          105
+        ],
+        "brandRect": [
+          695,
+          805,
+          530,
+          105
+        ],
+        "footageRect": [
+          1260,
+          805,
+          540,
+          105
+        ],
+        "drawnInternalText": [],
+        "drawnInputHeadings": []
+      },
+      {
+        "frame": 689,
+        "time": 22.966666666666665,
+        "textAlpha": 0,
+        "briefRect": [
+          100,
+          805,
+          530,
+          105
+        ],
+        "brandRect": [
+          695,
+          805,
+          530,
+          105
+        ],
+        "footageRect": [
+          1260,
+          805,
+          540,
+          105
+        ],
+        "drawnInternalText": [],
+        "drawnInputHeadings": []
+      },
+      {
+        "frame": 690,
+        "time": 23,
+        "textAlpha": 0,
+        "briefRect": [
+          100,
+          805,
+          530,
+          105
+        ],
+        "brandRect": [
+          695,
+          805,
+          530,
+          105
+        ],
+        "footageRect": [
+          1260,
+          805,
+          540,
+          105
+        ],
+        "drawnInternalText": [],
+        "drawnInputHeadings": []
+      },
+      {
+        "frame": 691,
+        "time": 23.033333333333335,
+        "textAlpha": 0,
+        "briefRect": [
+          100,
+          805,
+          530,
+          105
+        ],
+        "brandRect": [
+          695,
+          805,
+          530,
+          105
+        ],
+        "footageRect": [
+          1260,
+          805,
+          540,
+          105
+        ],
+        "drawnInternalText": [],
+        "drawnInputHeadings": []
+      },
+      {
+        "frame": 692,
+        "time": 23.066666666666666,
+        "textAlpha": 0,
+        "briefRect": [
+          100,
+          805,
+          530,
+          105
+        ],
+        "brandRect": [
+          695,
+          805,
+          530,
+          105
+        ],
+        "footageRect": [
+          1260,
+          805,
+          540,
+          105
+        ],
+        "drawnInternalText": [],
+        "drawnInputHeadings": []
+      },
+      {
+        "frame": 693,
+        "time": 23.1,
+        "textAlpha": 0,
+        "briefRect": [
+          100,
+          805,
+          530,
+          105
+        ],
+        "brandRect": [
+          695,
+          805,
+          530,
+          105
+        ],
+        "footageRect": [
+          1260,
+          805,
+          540,
+          105
+        ],
+        "drawnInternalText": [],
+        "drawnInputHeadings": []
+      },
+      {
+        "frame": 694,
+        "time": 23.133333333333333,
+        "textAlpha": 0,
+        "briefRect": [
+          100,
+          805,
+          530,
+          105
+        ],
+        "brandRect": [
+          695,
+          805,
+          530,
+          105
+        ],
+        "footageRect": [
+          1260,
+          805,
+          540,
+          105
+        ],
+        "drawnInternalText": [],
+        "drawnInputHeadings": []
+      },
+      {
+        "frame": 695,
+        "time": 23.166666666666668,
+        "textAlpha": 0,
+        "briefRect": [
+          100,
+          805,
+          530,
+          105
+        ],
+        "brandRect": [
+          695,
+          805,
+          530,
+          105
+        ],
+        "footageRect": [
+          1260,
+          805,
+          540,
+          105
+        ],
+        "drawnInternalText": [],
+        "drawnInputHeadings": []
+      },
+      {
+        "frame": 696,
+        "time": 23.2,
+        "textAlpha": 0,
+        "briefRect": [
+          100,
+          805,
+          530,
+          105
+        ],
+        "brandRect": [
+          695,
+          805,
+          530,
+          105
+        ],
+        "footageRect": [
+          1260,
+          805,
+          540,
+          105
+        ],
+        "drawnInternalText": [],
+        "drawnInputHeadings": []
+      },
+      {
+        "frame": 697,
+        "time": 23.233333333333334,
+        "textAlpha": 0,
+        "briefRect": [
+          100,
+          805,
+          530,
+          105
+        ],
+        "brandRect": [
+          695,
+          805,
+          530,
+          105
+        ],
+        "footageRect": [
+          1260,
+          805,
+          540,
+          105
+        ],
+        "drawnInternalText": [],
+        "drawnInputHeadings": []
+      },
+      {
+        "frame": 698,
+        "time": 23.266666666666666,
+        "textAlpha": 0,
+        "briefRect": [
+          100,
+          805,
+          530,
+          105
+        ],
+        "brandRect": [
+          695,
+          805,
+          530,
+          105
+        ],
+        "footageRect": [
+          1260,
+          805,
+          540,
+          105
+        ],
+        "drawnInternalText": [],
+        "drawnInputHeadings": []
+      },
+      {
+        "frame": 699,
+        "time": 23.3,
+        "textAlpha": 0,
+        "briefRect": [
+          100,
+          805,
+          530,
+          105
+        ],
+        "brandRect": [
+          695,
+          805,
+          530,
+          105
+        ],
+        "footageRect": [
+          1260,
+          805,
+          540,
+          105
+        ],
+        "drawnInternalText": [],
+        "drawnInputHeadings": []
+      },
+      {
+        "frame": 700,
+        "time": 23.333333333333332,
+        "textAlpha": 0,
+        "briefRect": [
+          100,
+          805,
+          530,
+          105
+        ],
+        "brandRect": [
+          695,
+          805,
+          530,
+          105
+        ],
+        "footageRect": [
+          1260,
+          805,
+          540,
+          105
+        ],
+        "drawnInternalText": [],
+        "drawnInputHeadings": []
+      }
+    ]
+  },
+  "additional": [
+    {
+      "kind": "message-compression",
+      "frame": 330,
+      "residual": 0
+    },
+    {
+      "kind": "message-compression",
+      "frame": 331,
+      "residual": 0
+    },
+    {
+      "kind": "message-compression",
+      "frame": 332,
+      "residual": 0
+    },
+    {
+      "kind": "message-compression",
+      "frame": 333,
+      "residual": 0
+    },
+    {
+      "kind": "message-compression",
+      "frame": 334,
+      "residual": 0
+    },
+    {
+      "kind": "message-compression",
+      "frame": 335,
+      "residual": 0
+    },
+    {
+      "kind": "message-compression",
+      "frame": 336,
+      "residual": 0
+    },
+    {
+      "kind": "message-compression",
+      "frame": 337,
+      "residual": 0
+    },
+    {
+      "kind": "message-compression",
+      "frame": 338,
+      "residual": 0
+    },
+    {
+      "kind": "message-compression",
+      "frame": 339,
+      "residual": 0
+    },
+    {
+      "kind": "message-compression",
+      "frame": 340,
+      "residual": 0
+    },
+    {
+      "kind": "message-compression",
+      "frame": 341,
+      "residual": 0
+    },
+    {
+      "kind": "message-compression",
+      "frame": 342,
+      "residual": 0
+    },
+    {
+      "kind": "message-compression",
+      "frame": 343,
+      "residual": 0
+    },
+    {
+      "kind": "message-compression",
+      "frame": 344,
+      "residual": 0
+    },
+    {
+      "kind": "message-compression",
+      "frame": 345,
+      "residual": 0
+    },
+    {
+      "kind": "message-compression",
+      "frame": 346,
+      "residual": 0
+    },
+    {
+      "kind": "message-compression",
+      "frame": 347,
+      "residual": 0
+    },
+    {
+      "kind": "message-compression",
+      "frame": 348,
+      "residual": 0
+    },
+    {
+      "kind": "message-compression",
+      "frame": 349,
+      "residual": 0
+    },
+    {
+      "kind": "message-compression",
+      "frame": 350,
+      "residual": 0
+    },
+    {
+      "kind": "message-compression",
+      "frame": 351,
+      "residual": 0
+    },
+    {
+      "kind": "message-compression",
+      "frame": 352,
+      "residual": 0
+    },
+    {
+      "kind": "message-compression",
+      "frame": 353,
+      "residual": 0
+    },
+    {
+      "kind": "message-compression",
+      "frame": 354,
+      "residual": 0
+    },
+    {
+      "kind": "message-compression",
+      "frame": 355,
+      "residual": 0
+    },
+    {
+      "kind": "message-compression",
+      "frame": 356,
+      "residual": 0
+    },
+    {
+      "kind": "message-compression",
+      "frame": 357,
+      "residual": 0
+    },
+    {
+      "kind": "message-compression",
+      "frame": 358,
+      "residual": 0
+    },
+    {
+      "kind": "message-compression",
+      "frame": 359,
+      "residual": 0
+    },
+    {
+      "kind": "filename-morph",
+      "frame": 2132,
+      "residual": 0
+    },
+    {
+      "kind": "filename-morph",
+      "frame": 2133,
+      "residual": 0
+    },
+    {
+      "kind": "filename-morph",
+      "frame": 2134,
+      "residual": 0
+    },
+    {
+      "kind": "filename-morph",
+      "frame": 2135,
+      "residual": 0
+    },
+    {
+      "kind": "filename-morph",
+      "frame": 2136,
+      "residual": 0
+    },
+    {
+      "kind": "filename-morph",
+      "frame": 2137,
+      "residual": 0
+    },
+    {
+      "kind": "filename-morph",
+      "frame": 2138,
+      "residual": 0
+    },
+    {
+      "kind": "filename-morph",
+      "frame": 2139,
+      "residual": 0
+    },
+    {
+      "kind": "filename-morph",
+      "frame": 2140,
+      "residual": 0
+    },
+    {
+      "kind": "filename-morph",
+      "frame": 2141,
+      "residual": 0
+    },
+    {
+      "kind": "filename-morph",
+      "frame": 2142,
+      "residual": 0
+    },
+    {
+      "kind": "filename-morph",
+      "frame": 2143,
+      "residual": 0
+    },
+    {
+      "kind": "filename-morph",
+      "frame": 2144,
+      "residual": 0
+    },
+    {
+      "kind": "filename-morph",
+      "frame": 2145,
+      "residual": 0
+    },
+    {
+      "kind": "filename-morph",
+      "frame": 2146,
+      "residual": 0
+    },
+    {
+      "kind": "filename-morph",
+      "frame": 2147,
+      "residual": 0
+    },
+    {
+      "kind": "filename-morph",
+      "frame": 2148,
+      "residual": 0
+    },
+    {
+      "kind": "filename-morph",
+      "frame": 2149,
+      "residual": 0
+    },
+    {
+      "kind": "filename-morph",
+      "frame": 2150,
+      "residual": 0
+    },
+    {
+      "kind": "filename-morph",
+      "frame": 2151,
+      "residual": 0
+    },
+    {
+      "kind": "filename-morph",
+      "frame": 2152,
+      "residual": 0
+    },
+    {
+      "kind": "filename-morph",
+      "frame": 2153,
+      "residual": 0
+    },
+    {
+      "kind": "filename-morph",
+      "frame": 2154,
+      "residual": 0
+    }
+  ],
+  "spelling": "passed",
+  "note": "Live draw-call/geometry QA only. Decode and visually inspect final MP4 transition frames separately.",
+  "pageErrors": [],
+  "checkedAtUtc": "2026-10-27T11:34:48.080Z"
+}

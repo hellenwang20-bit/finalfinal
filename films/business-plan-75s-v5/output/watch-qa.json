@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "scope": "Actual MP4 in native watch.html player; standard project HTTP server fallback if file:// is blocked by execution policy",
+  "local_file_check": "Unavailable: execution browser administrator policy blocks file:// navigation",
+  "duration": 75,
+  "width": 1920,
+  "height": 1080,
+  "source": "http://127.0.0.1:37465/output/FinalFinalStudio-BusinessPlan-75s-v5.mp4",
+  "page_errors": []
+}

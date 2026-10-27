@@ -1,0 +1,51 @@
+{
+  "passed": true,
+  "scope": "Actual PCM master and stems; original instrumental synthesis only, no speech or vocal assets. Effects retimed to V5 deterministic animation frames.",
+  "format": "75.000s stereo 48000Hz PCM16",
+  "assets": [
+    {
+      "file": "music.wav",
+      "sample_rate": 48000,
+      "channels": 2,
+      "sample_width": 2,
+      "samples_per_channel": 3600000,
+      "duration_seconds": 75,
+      "sha256": "38642950d5f31841cfc2afd67e3b9268a84a524f66390f8c42f2f31e3f18411d",
+      "sample_peak_dbfs": -2.666
+    },
+    {
+      "file": "workflow-sfx.wav",
+      "sample_rate": 48000,
+      "channels": 2,
+      "sample_width": 2,
+      "samples_per_channel": 3600000,
+      "duration_seconds": 75,
+      "sha256": "70bef03b91a315a3d008cd7ba40f2e0c05b124758df14c64dd8adf97d3f203bb",
+      "sample_peak_dbfs": -8.669
+    },
+    {
+      "file": "score.wav",
+      "sample_rate": 48000,
+      "channels": 2,
+      "sample_width": 2,
+      "samples_per_channel": 3600000,
+      "duration_seconds": 75,
+      "sha256": "df280bf130683429dc2ff1eb9582629bf838e8673f36050dfa4d9724f0f5d130",
+      "sample_peak_dbfs": -4.312
+    }
+  ],
+  "mix_sum_max_quantization_error_lsb": 1,
+  "measured_master": {
+    "input_i": "-15.50",
+    "input_tp": "-4.23",
+    "input_lra": "5.70",
+    "input_thresh": "-25.89"
+  },
+  "tail_last_0_1s_rms_dbfs": -86.19,
+  "last_1ms_peak_dbfs": -240.0,
+  "last_1ms_peak": 0.0,
+  "effect_cues": 64,
+  "beat_count": 150,
+  "no_voiceover": true,
+  "music_composition": "Original 120BPM instrumental composition retained; shared mix normalization regenerated with revised action cues."
+}

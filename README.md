@@ -1,5 +1,22 @@
 # finalfinal
 
+## Latest V5 — complete 75-second connected-motion revision
+
+- **[Watch or download the full updated MP4](https://github.com/hellenwang20-bit/finalfinal/raw/refs/heads/main/films/business-plan-75s-v5/output/FinalFinalStudio-BusinessPlan-75s-v5.mp4)**
+- **[Download editable V5 project, complete player and film](https://github.com/hellenwang20-bit/finalfinal/raw/refs/heads/main/films/business-plan-75s-v5/FinalFinalStudio-BusinessPlan-Project-v5.zip)**
+- [See the actual decoded Brief transition](films/business-plan-75s-v5/output/transition-contact.jpg)
+- [Open V5 source and instructions](films/business-plan-75s-v5) · [Actual final-MP4 review](films/business-plan-75s-v5/output/transition-review.md)
+
+The Brief lettering now fades completely while all three input objects retain their dimensions. At frame 651 the lettering stops rendering, frames 651–652 have no internal text, and only pure geometry compresses from frame 653. This removes the half-word Message residue without squeezing or masking lettering away.
+
+Purposeful layered paper, hinged brand swatches, playing film strips, trim tools, caption assembly, one-to-many campaign expansion, scheduled task tracks and file-to-brand transformation use a shared matte graphic language. Business copy, proposed prices, quantities, the 20-hour monthly cap and natural case are unchanged. The original instrumental composition remains; action effects have been retimed. No voiceover or vocals.
+
+**75.000 seconds · 1920×1080 · 30 fps · 2,250 frames · H.264/AAC.** Actual final-MP4 review includes 184 selected text-state samples across 46 blocks, 13 measured encoded text crops, five transition strips and the critical ten-frame Brief retirement strip. Live draw-call checks additionally inspect 61 input frames and 102 service-transition frames. Full 2,250-frame decoding passes; the final 90 live-canvas frames are identical.
+
+Earlier versions below are preserved for reference.
+
+---
+
 ## Latest V4 — complete75-second typography and motion revision
 
 - **[Download the revised full MP4](https://github.com/hellenwang20-bit/finalfinal/raw/refs/heads/main/films/business-plan-75s-v4/output/FinalFinalStudio-BusinessPlan-75s-v4.mp4)**

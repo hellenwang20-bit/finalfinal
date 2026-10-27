@@ -1,0 +1,88 @@
+{
+  "passed": true,
+  "source_movie": "FinalFinalStudio-BusinessPlan-75s-v5.mp4",
+  "source_sha256": "8c5a0028f90f0d52f9f6a58219c60fb9a6369afe7c5777276d6fd5e2396213d5",
+  "source": "Actual final H.264 frames decoded by FFmpeg",
+  "method": "Dark-ink control at f645, fading samples, and zero dark pixels in the complete former Message region at f651/f652/f653. Independent live draw-call QA covers all text during changing geometry.",
+  "samples": [
+    {
+      "frame": 645,
+      "time": 21.5,
+      "former_message_ink_roi": [
+        162,
+        496,
+        345,
+        535
+      ],
+      "dark_pixels_below_200": 1545,
+      "minimum_channel": 3,
+      "file": "frame-0042.png"
+    },
+    {
+      "frame": 648,
+      "time": 21.6,
+      "former_message_ink_roi": [
+        162,
+        496,
+        345,
+        535
+      ],
+      "dark_pixels_below_200": 1434,
+      "minimum_channel": 114,
+      "file": "frame-0043.png"
+    },
+    {
+      "frame": 650,
+      "time": 21.666666666666668,
+      "former_message_ink_roi": [
+        162,
+        496,
+        345,
+        535
+      ],
+      "dark_pixels_below_200": 0,
+      "minimum_channel": 235,
+      "file": "frame-0044.png"
+    },
+    {
+      "frame": 651,
+      "time": 21.7,
+      "former_message_ink_roi": [
+        162,
+        496,
+        345,
+        535
+      ],
+      "dark_pixels_below_200": 0,
+      "minimum_channel": 236,
+      "file": "frame-0045.png"
+    },
+    {
+      "frame": 652,
+      "time": 21.733333333333334,
+      "former_message_ink_roi": [
+        162,
+        496,
+        345,
+        535
+      ],
+      "dark_pixels_below_200": 0,
+      "minimum_channel": 236,
+      "file": "frame-0046.png"
+    },
+    {
+      "frame": 653,
+      "time": 21.766666666666666,
+      "former_message_ink_roi": [
+        162,
+        496,
+        345,
+        535
+      ],
+      "dark_pixels_below_200": 0,
+      "minimum_channel": 236,
+      "file": "frame-0047.png"
+    }
+  ],
+  "visual_review": "See transition-review.md for separate inspection of the complete moving document route."
+}

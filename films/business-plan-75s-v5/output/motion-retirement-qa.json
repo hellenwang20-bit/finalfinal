@@ -1,0 +1,724 @@
+{
+  "passed": true,
+  "scope": "Actual canvas fillText submissions inside source media and named/positioned interior text layers",
+  "framesChecked": 102,
+  "rows": [
+    {
+      "kind": "quick-timeline",
+      "frame": 834,
+      "time": 27.8,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 5
+    },
+    {
+      "kind": "quick-timeline",
+      "frame": 835,
+      "time": 27.833333333333332,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 5
+    },
+    {
+      "kind": "quick-timeline",
+      "frame": 836,
+      "time": 27.866666666666667,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 5
+    },
+    {
+      "kind": "quick-timeline",
+      "frame": 837,
+      "time": 27.9,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 5
+    },
+    {
+      "kind": "quick-timeline",
+      "frame": 838,
+      "time": 27.933333333333334,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 5
+    },
+    {
+      "kind": "quick-timeline",
+      "frame": 839,
+      "time": 27.966666666666665,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 5
+    },
+    {
+      "kind": "quick-timeline",
+      "frame": 840,
+      "time": 28,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 3
+    },
+    {
+      "kind": "quick-timeline",
+      "frame": 841,
+      "time": 28.033333333333335,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 4
+    },
+    {
+      "kind": "quick-timeline",
+      "frame": 842,
+      "time": 28.066666666666666,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 5
+    },
+    {
+      "kind": "quick-timeline",
+      "frame": 843,
+      "time": 28.1,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 5
+    },
+    {
+      "kind": "quick-timeline",
+      "frame": 844,
+      "time": 28.133333333333333,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 5
+    },
+    {
+      "kind": "campaign-to-calendar",
+      "frame": 1377,
+      "time": 45.9,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 16
+    },
+    {
+      "kind": "campaign-to-calendar",
+      "frame": 1378,
+      "time": 45.93333333333333,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 16
+    },
+    {
+      "kind": "campaign-to-calendar",
+      "frame": 1379,
+      "time": 45.96666666666667,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 16
+    },
+    {
+      "kind": "campaign-to-calendar",
+      "frame": 1380,
+      "time": 46,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 0
+    },
+    {
+      "kind": "campaign-to-calendar",
+      "frame": 1381,
+      "time": 46.03333333333333,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 1
+    },
+    {
+      "kind": "campaign-to-calendar",
+      "frame": 1382,
+      "time": 46.06666666666667,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 2
+    },
+    {
+      "kind": "campaign-to-calendar",
+      "frame": 1383,
+      "time": 46.1,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 3
+    },
+    {
+      "kind": "campaign-to-calendar",
+      "frame": 1384,
+      "time": 46.13333333333333,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 3
+    },
+    {
+      "kind": "campaign-to-calendar",
+      "frame": 1385,
+      "time": 46.166666666666664,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 3
+    },
+    {
+      "kind": "campaign-to-calendar",
+      "frame": 1386,
+      "time": 46.2,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 3
+    },
+    {
+      "kind": "campaign-to-calendar",
+      "frame": 1387,
+      "time": 46.233333333333334,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 3
+    },
+    {
+      "kind": "campaign-to-calendar",
+      "frame": 1388,
+      "time": 46.266666666666666,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 3
+    },
+    {
+      "kind": "campaign-to-calendar",
+      "frame": 1389,
+      "time": 46.3,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 3
+    },
+    {
+      "kind": "campaign-to-calendar",
+      "frame": 1390,
+      "time": 46.333333333333336,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 3
+    },
+    {
+      "kind": "campaign-to-calendar",
+      "frame": 1391,
+      "time": 46.36666666666667,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 3
+    },
+    {
+      "kind": "campaign-to-calendar",
+      "frame": 1392,
+      "time": 46.4,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 3
+    },
+    {
+      "kind": "campaign-to-calendar",
+      "frame": 1393,
+      "time": 46.43333333333333,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 3
+    },
+    {
+      "kind": "campaign-to-calendar",
+      "frame": 1394,
+      "time": 46.46666666666667,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 3
+    },
+    {
+      "kind": "campaign-to-calendar",
+      "frame": 1395,
+      "time": 46.5,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 3
+    },
+    {
+      "kind": "campaign-to-calendar",
+      "frame": 1396,
+      "time": 46.53333333333333,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 3
+    },
+    {
+      "kind": "campaign-to-calendar",
+      "frame": 1397,
+      "time": 46.56666666666667,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 4
+    },
+    {
+      "kind": "campaign-to-calendar",
+      "frame": 1398,
+      "time": 46.6,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 4
+    },
+    {
+      "kind": "campaign-to-calendar",
+      "frame": 1399,
+      "time": 46.63333333333333,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 5
+    },
+    {
+      "kind": "campaign-to-calendar",
+      "frame": 1400,
+      "time": 46.666666666666664,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 6
+    },
+    {
+      "kind": "campaign-to-calendar",
+      "frame": 1401,
+      "time": 46.7,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 6
+    },
+    {
+      "kind": "campaign-to-calendar",
+      "frame": 1402,
+      "time": 46.733333333333334,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 6
+    },
+    {
+      "kind": "campaign-to-calendar",
+      "frame": 1403,
+      "time": 46.766666666666666,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 6
+    },
+    {
+      "kind": "campaign-to-calendar",
+      "frame": 1404,
+      "time": 46.8,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 6
+    },
+    {
+      "kind": "campaign-to-calendar",
+      "frame": 1405,
+      "time": 46.833333333333336,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 6
+    },
+    {
+      "kind": "campaign-to-calendar",
+      "frame": 1406,
+      "time": 46.86666666666667,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 6
+    },
+    {
+      "kind": "campaign-to-calendar",
+      "frame": 1407,
+      "time": 46.9,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 6
+    },
+    {
+      "kind": "campaign-to-calendar",
+      "frame": 1408,
+      "time": 46.93333333333333,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 6
+    },
+    {
+      "kind": "campaign-to-calendar",
+      "frame": 1409,
+      "time": 46.96666666666667,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 6
+    },
+    {
+      "kind": "campaign-to-calendar",
+      "frame": 1410,
+      "time": 47,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 6
+    },
+    {
+      "kind": "calendar-to-queue",
+      "frame": 1467,
+      "time": 48.9,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 6
+    },
+    {
+      "kind": "calendar-to-queue",
+      "frame": 1468,
+      "time": 48.93333333333333,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 6
+    },
+    {
+      "kind": "calendar-to-queue",
+      "frame": 1469,
+      "time": 48.96666666666667,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 6
+    },
+    {
+      "kind": "calendar-to-queue",
+      "frame": 1470,
+      "time": 49,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 5
+    },
+    {
+      "kind": "calendar-to-queue",
+      "frame": 1471,
+      "time": 49.03333333333333,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 6
+    },
+    {
+      "kind": "calendar-to-queue",
+      "frame": 1472,
+      "time": 49.06666666666667,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 7
+    },
+    {
+      "kind": "calendar-to-queue",
+      "frame": 1473,
+      "time": 49.1,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 8
+    },
+    {
+      "kind": "calendar-to-queue",
+      "frame": 1474,
+      "time": 49.13333333333333,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 8
+    },
+    {
+      "kind": "calendar-to-queue",
+      "frame": 1475,
+      "time": 49.166666666666664,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 9
+    },
+    {
+      "kind": "calendar-to-queue",
+      "frame": 1476,
+      "time": 49.2,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 10
+    },
+    {
+      "kind": "calendar-to-queue",
+      "frame": 1477,
+      "time": 49.233333333333334,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 10
+    },
+    {
+      "kind": "calendar-to-queue",
+      "frame": 1478,
+      "time": 49.266666666666666,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 11
+    },
+    {
+      "kind": "calendar-to-queue",
+      "frame": 1479,
+      "time": 49.3,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 11
+    },
+    {
+      "kind": "calendar-to-queue",
+      "frame": 1480,
+      "time": 49.333333333333336,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 11
+    },
+    {
+      "kind": "calendar-to-queue",
+      "frame": 1481,
+      "time": 49.36666666666667,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 11
+    },
+    {
+      "kind": "calendar-to-queue",
+      "frame": 1482,
+      "time": 49.4,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 11
+    },
+    {
+      "kind": "calendar-to-queue",
+      "frame": 1483,
+      "time": 49.43333333333333,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 11
+    },
+    {
+      "kind": "calendar-to-queue",
+      "frame": 1484,
+      "time": 49.46666666666667,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 11
+    },
+    {
+      "kind": "calendar-to-queue",
+      "frame": 1485,
+      "time": 49.5,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 11
+    },
+    {
+      "kind": "calendar-to-queue",
+      "frame": 1486,
+      "time": 49.53333333333333,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 11
+    },
+    {
+      "kind": "calendar-to-queue",
+      "frame": 1487,
+      "time": 49.56666666666667,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 11
+    },
+    {
+      "kind": "calendar-to-queue",
+      "frame": 1488,
+      "time": 49.6,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 11
+    },
+    {
+      "kind": "queue-to-delivery",
+      "frame": 1647,
+      "time": 54.9,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 14
+    },
+    {
+      "kind": "queue-to-delivery",
+      "frame": 1648,
+      "time": 54.93333333333333,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 14
+    },
+    {
+      "kind": "queue-to-delivery",
+      "frame": 1649,
+      "time": 54.96666666666667,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 14
+    },
+    {
+      "kind": "queue-to-delivery",
+      "frame": 1650,
+      "time": 55,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 0
+    },
+    {
+      "kind": "queue-to-delivery",
+      "frame": 1651,
+      "time": 55.03333333333333,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 1
+    },
+    {
+      "kind": "queue-to-delivery",
+      "frame": 1652,
+      "time": 55.06666666666667,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 2
+    },
+    {
+      "kind": "queue-to-delivery",
+      "frame": 1653,
+      "time": 55.1,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 2
+    },
+    {
+      "kind": "queue-to-delivery",
+      "frame": 1654,
+      "time": 55.13333333333333,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 2
+    },
+    {
+      "kind": "queue-to-delivery",
+      "frame": 1655,
+      "time": 55.166666666666664,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 2
+    },
+    {
+      "kind": "queue-to-delivery",
+      "frame": 1656,
+      "time": 55.2,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 2
+    },
+    {
+      "kind": "queue-to-delivery",
+      "frame": 1657,
+      "time": 55.233333333333334,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 2
+    },
+    {
+      "kind": "queue-to-delivery",
+      "frame": 1658,
+      "time": 55.266666666666666,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 2
+    },
+    {
+      "kind": "queue-to-delivery",
+      "frame": 1659,
+      "time": 55.3,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 2
+    },
+    {
+      "kind": "queue-to-delivery",
+      "frame": 1660,
+      "time": 55.333333333333336,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 2
+    },
+    {
+      "kind": "queue-to-delivery",
+      "frame": 1661,
+      "time": 55.36666666666667,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 2
+    },
+    {
+      "kind": "queue-to-delivery",
+      "frame": 1662,
+      "time": 55.4,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 2
+    },
+    {
+      "kind": "delivery-to-process",
+      "frame": 1767,
+      "time": 58.9,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 4
+    },
+    {
+      "kind": "delivery-to-process",
+      "frame": 1768,
+      "time": 58.93333333333333,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 4
+    },
+    {
+      "kind": "delivery-to-process",
+      "frame": 1769,
+      "time": 58.96666666666667,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 4
+    },
+    {
+      "kind": "delivery-to-process",
+      "frame": 1770,
+      "time": 59,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 4
+    },
+    {
+      "kind": "delivery-to-process",
+      "frame": 1771,
+      "time": 59.03333333333333,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 4
+    },
+    {
+      "kind": "delivery-to-process",
+      "frame": 1772,
+      "time": 59.06666666666667,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 4
+    },
+    {
+      "kind": "delivery-to-process",
+      "frame": 1773,
+      "time": 59.1,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 4
+    },
+    {
+      "kind": "delivery-to-process",
+      "frame": 1774,
+      "time": 59.13333333333333,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 4
+    },
+    {
+      "kind": "delivery-to-process",
+      "frame": 1775,
+      "time": 59.166666666666664,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 4
+    },
+    {
+      "kind": "delivery-to-process",
+      "frame": 1776,
+      "time": 59.2,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 4
+    },
+    {
+      "kind": "delivery-to-process",
+      "frame": 1777,
+      "time": 59.233333333333334,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 4
+    },
+    {
+      "kind": "delivery-to-process",
+      "frame": 1778,
+      "time": 59.266666666666666,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 5
+    },
+    {
+      "kind": "delivery-to-process",
+      "frame": 1779,
+      "time": 59.3,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 5
+    },
+    {
+      "kind": "delivery-to-process",
+      "frame": 1780,
+      "time": 59.333333333333336,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 6
+    },
+    {
+      "kind": "delivery-to-process",
+      "frame": 1781,
+      "time": 59.36666666666667,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 6
+    },
+    {
+      "kind": "delivery-to-process",
+      "frame": 1782,
+      "time": 59.4,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 6
+    },
+    {
+      "kind": "delivery-to-process",
+      "frame": 1783,
+      "time": 59.43333333333333,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 6
+    },
+    {
+      "kind": "delivery-to-process",
+      "frame": 1784,
+      "time": 59.46666666666667,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 6
+    },
+    {
+      "kind": "delivery-to-process",
+      "frame": 1785,
+      "time": 59.5,
+      "retiredCopySubmissions": 0,
+      "allTextSubmissions": 6
+    }
+  ],
+  "note": "Live composition tests only; actual decoded MP4 inspection is recorded separately.",
+  "pageErrors": [],
+  "checkedAtUtc": "2026-10-27T11:34:51.294Z"
+}

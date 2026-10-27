@@ -1,0 +1,129 @@
+{
+  "source_movie": "FinalFinalStudio-BusinessPlan-75s-v5.mp4",
+  "source_sha256": "8c5a0028f90f0d52f9f6a58219c60fb9a6369afe7c5777276d6fd5e2396213d5",
+  "source": "Decoded final H264 MP4, exact selected frame numbers",
+  "scope": "Brief object and its complete path; image extraction is evidence, not an automatic visual verdict",
+  "samples": [
+    {
+      "frame": 645,
+      "time": 21.5,
+      "file": "frame-0042.png",
+      "roi": [
+        80,
+        200,
+        580,
+        780
+      ],
+      "expected_stage": "complete text fade"
+    },
+    {
+      "frame": 648,
+      "time": 21.6,
+      "file": "frame-0043.png",
+      "roi": [
+        80,
+        200,
+        580,
+        780
+      ],
+      "expected_stage": "complete text fade"
+    },
+    {
+      "frame": 650,
+      "time": 21.666666666666668,
+      "file": "frame-0044.png",
+      "roi": [
+        80,
+        200,
+        580,
+        780
+      ],
+      "expected_stage": "complete text fade"
+    },
+    {
+      "frame": 651,
+      "time": 21.7,
+      "file": "frame-0045.png",
+      "roi": [
+        80,
+        200,
+        580,
+        780
+      ],
+      "expected_stage": "zero-text gap"
+    },
+    {
+      "frame": 652,
+      "time": 21.733333333333334,
+      "file": "frame-0046.png",
+      "roi": [
+        80,
+        200,
+        580,
+        780
+      ],
+      "expected_stage": "zero-text gap"
+    },
+    {
+      "frame": 653,
+      "time": 21.766666666666666,
+      "file": "frame-0047.png",
+      "roi": [
+        80,
+        200,
+        580,
+        780
+      ],
+      "expected_stage": "graphic-only compression"
+    },
+    {
+      "frame": 660,
+      "time": 22.0,
+      "file": "frame-0048.png",
+      "roi": [
+        80,
+        200,
+        580,
+        780
+      ],
+      "expected_stage": "graphic-only compression"
+    },
+    {
+      "frame": 672,
+      "time": 22.4,
+      "file": "frame-0049.png",
+      "roi": [
+        80,
+        200,
+        580,
+        780
+      ],
+      "expected_stage": "graphic-only compression"
+    },
+    {
+      "frame": 688,
+      "time": 22.933333333333334,
+      "file": "frame-0050.png",
+      "roi": [
+        80,
+        200,
+        580,
+        780
+      ],
+      "expected_stage": "graphic-only compression"
+    },
+    {
+      "frame": 690,
+      "time": 23.0,
+      "file": "frame-0051.png",
+      "roi": [
+        80,
+        200,
+        580,
+        780
+      ],
+      "expected_stage": "assembled output"
+    }
+  ],
+  "contact_sheet": "../transition-contact.jpg"
+}

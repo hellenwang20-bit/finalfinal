@@ -1,0 +1,67 @@
+{
+  "title": "Final Final Studio — Yiran Wang Business Plan",
+  "validated_at_utc": "2026-10-27T11:36:48+00:00",
+  "duration_seconds": 75,
+  "frames": 2250,
+  "video": {
+    "codec_name": "h264",
+    "width": 1920,
+    "height": 1080,
+    "r_frame_rate": "30/1",
+    "pix_fmt": "yuv420p",
+    "color_space": "bt709",
+    "color_primaries": "bt709",
+    "color_transfer": "bt709"
+  },
+  "audio": {
+    "codec_name": "aac",
+    "sample_rate": "48000",
+    "channels": 2,
+    "duration": "75.000000"
+  },
+  "full_video_decode": "passed",
+  "decoded_frames": 2250,
+  "blank_frames": [],
+  "minimum_visible_thumbnail_pixels": 273,
+  "visibility_method": "At least10thumbnail pixels contrast morethan18levels from#111111 and frame standard deviation exceeds2. This distinguishes real dark graphic content from empty/flat frames.",
+  "low_brightness_frames": [
+    2085,
+    2086,
+    2128,
+    2129,
+    2130,
+    2131
+  ],
+  "low_brightness_review": "Low-brightness candidates occur in the matte export-window stage. They retain a real panel and contrasting outline; see actual decoded contacts and the separate transition-review.md verdict.",
+  "final_card": {
+    "start": 72,
+    "end": 75,
+    "live_canvas_identical_frames": 90,
+    "decoded_thumbnail_max_rms_difference": 0.038456592708826065
+  },
+  "sha256": "8c5a0028f90f0d52f9f6a58219c60fb9a6369afe7c5777276d6fd5e2396213d5",
+  "file_bytes": 10152198,
+  "voiceover": "None; original instrumental synthesis and action effects only",
+  "client_footage": "Not supplied; authored original CGI video used as permitted, labelled Concept work at first appearance",
+  "services": {
+    "Quick Edit": {
+      "video": "One15–30s",
+      "aspect_ratios": 1,
+      "revision_rounds": 1,
+      "proposed_price": "€200 / project"
+    },
+    "Campaign Content Pack": {
+      "main_video": 1,
+      "main_max_seconds": 60,
+      "short_cutdowns": 2,
+      "matching_graphics": 3,
+      "proposed_price": "€500 / pack"
+    },
+    "Monthly Creative Support": {
+      "max_hours_per_month": 20,
+      "tasks_agreed_in_advance": true,
+      "proposed_price": "€900 / month"
+    }
+  },
+  "qa_report": "qa-report.json"
+}
